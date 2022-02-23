@@ -1,0 +1,1973 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rome is no rule, or, An answer to an epistle published by a Roman Catholic who stiles himself Cap. Robert Everard and may serve for an answer to two Popish treatises, the one entituled The question of questions, and the other Fiat lux, out of which books the arguments urged in the said epistle against the authority of the Scriptures and the infallibility of the Roman Church are collected : in which answer, the authority of the Scriptures is vindicated and the arguments for the Roman infallibility refuted / by J.I.</title>
+            <author>Ives, Jeremiah, fl. 1653-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 67 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45831</idno>
+            <idno type="STC">Wing I1103B</idno>
+            <idno type="STC">ESTC R41015</idno>
+            <idno type="EEBO-CITATION">19570549</idno>
+            <idno type="OCLC">ocm 19570549</idno>
+            <idno type="VID">109129</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109129)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1690:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rome is no rule, or, An answer to an epistle published by a Roman Catholic who stiles himself Cap. Robert Everard and may serve for an answer to two Popish treatises, the one entituled The question of questions, and the other Fiat lux, out of which books the arguments urged in the said epistle against the authority of the Scriptures and the infallibility of the Roman Church are collected : in which answer, the authority of the Scriptures is vindicated and the arguments for the Roman infallibility refuted / by J.I.</title>
+                  <author>Ives, Jeremiah, fl. 1653-1674.</author>
+               </titleStmt>
+               <extent>[14], 119 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for Livewel Chapman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Ives by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Everard, Robert, fl. 1664. --  Epistle to the several congregations of the nonconformists.</term>
+               <term>J. V. C. --  (John Vincent Canes), d. 1672. --  Fiat lux.</term>
+               <term>Mumford, J. --  (James), 1606-1666. --  Question of questions.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109129:1"/>
+            <pb facs="tcp:109129:1" rendition="simple:additions"/>
+            <p>
+               <hi>Rome is no Rule:</hi> OR, AN ANSWER To an Epiſtle
+publiſhed by a Roman Catholick who ſtiles himſelf, Cap. ROBERT EVERARD
+And may ſerve for an Anſwer to two Popiſh Treatiſes, the one
+Enti<g ref="char:EOLhyphen"/>tuled, <hi>The Queſtion of Queſtions;</hi> and the other, <hi>Fiat
+Lux:</hi> out of which Books the Arguments urged in the ſaid Epiſtle
+againſt the Authority of the Scriptures, and the pretended Infallibility of
+the <hi>Roman</hi> Church are Collected. In which Anſwer, the authority of
+the Scriptures is vindicated, and the Arguments for the <hi>Romiſh</hi>
+Infallibility Refuted.</p>
+            <p>By <hi>J. I.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 8.17.</hi>
+               </bibl> 
+               <p>He that is firſt in his own cauſe ſeemeth juſt, but his
+neighbour cometh and ſearcheth him.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Job. 6.25.</hi>
+               </bibl> 
+               <p>How forcible are right words, but what do your arguings
+reprove?</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> for <hi>Livewel
+Chapman,</hi> at his Shop in <hi>Exchange Alley</hi> in <hi>Cornbil</hi>
+1664.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:109129:2"/>
+            <pb facs="tcp:109129:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the Word of God which he hath exal<g ref="char:EOLhyphen"/>ted above all his Name,
+to be as a light ſhining in a dark place, and as a Rule try Doctrines,
+whether they are of Heaven, or of Men, is by <hi>Roman Catho<g ref="char:EOLhyphen"/>licks</hi> cried
+down, as altogether inſufficient for that purpoſe; by <pb facs="tcp:109129:3"/>reaſon
+whereof they have, and do daily beguile unstable Souls: I ſhall therefore, as
+a preface to this enſuing Diſcourſe lay be<g ref="char:EOLhyphen"/>fore you the Judgement of
+Christ and his Apoſtles, and diverſe of the Antient Fathers (who trode in
+their paths) touching the Authority and <g ref="char:V">Ʋ</g>ſeſulneſs of the Holy
+Scriptures, and com<g ref="char:EOLhyphen"/>pare them with the Judgements of the <hi>Romane
+Catholicks,</hi> that ſo trying all things, thou mayeſt hold firſt that
+which is beſt. In the firſt place, it was the Judgement of Christ (whoſe
+Judgement is believed by all Chriſtians to be Infallible) <hi>That Men ought
+to ſearch the <pb facs="tcp:109129:3"/>Scriptures, Joh. 5.39.</hi> And that the reaſon
+why the <hi>Jews</hi> did erre in the Doctrine of the Reſur<g ref="char:EOLhyphen"/>rection was,
+becauſe <hi>they did not know the ſcripture, Mark 12.24.</hi> He judged
+that the rea<g ref="char:EOLhyphen"/>ſon why the <hi>Jews</hi> did not be<g ref="char:EOLhyphen"/>lieve him, was, becauſe
+<hi>they did not believe the Scriptures, Jo. 5.46.</hi> He judged the
+Scrip<g ref="char:EOLhyphen"/>tures to be <hi>Armour of proof againſt the Devil, Mat. 4.6, 7. He
+confutes his Adverſaries by them,</hi> Joh. <hi>8.17.</hi> Mat. <hi>12.4,
+5.</hi> This was alſo the judge<g ref="char:EOLhyphen"/>ment and practiſe of the Apo<g ref="char:EOLhyphen"/>ſtles;
+therefore they commend the <hi>Bareans</hi> for ſearching the Scriptures,
+<hi>Acts 17.11.</hi> Hence <pb facs="tcp:109129:4"/>it was that they mightily convin<g ref="char:EOLhyphen"/>ced the
+Jews, ſhewing by the Scriptures, <hi>That Jeſus was the Chriſt, Acts
+18.28.</hi> The A<g ref="char:EOLhyphen"/>poſtle informs <hi>Timothy, That they were able to make
+wiſe to ſalvation, and that they were profitable for Doctrine, for Reproof,
+for Correction, and for Inſtruction in Righte<g ref="char:EOLhyphen"/>ouſneſſe, 2</hi> Tim.
+<hi>3.15, 16. And that if we fulfil the Royal law according to the
+ſcriptures, we ſhall do well,</hi> Jam. <hi>2.8. That they were written for
+our</hi> ad<g ref="char:EOLhyphen"/>monition, <hi>upon whom the ends of the</hi> world <hi>are come,
+1</hi> Cor. <hi>10 11.</hi> And <hi>that they were writ<g ref="char:EOLhyphen"/>ten for our learning,
+that we <pb facs="tcp:109129:4"/>through patience and comfort of the ſcriptures might have
+Hope,</hi> Rom. <hi>15.4. This was alſo the judgment of the Fa<g ref="char:EOLhyphen"/>thers, who
+followed the foot<g ref="char:EOLhyphen"/>ſteps of Chriſt and his A<g ref="char:EOLhyphen"/>poſtles.</hi> St.
+<hi>Auguſtine</hi> ſaith, upon the <hi>8.</hi> Pſalm, <hi>That God hath
+bowed down the ſcrip<g ref="char:EOLhyphen"/>tures to the capacity of Babes and Sucklings, that when
+proud men will not ſpeak to their capacity, himſelf might.</hi>
+            </p>
+            <p>And again, the ſame Authour ſaith, <hi>That our Faith would
+reel and totter if the Authori<g ref="char:EOLhyphen"/>ty of the ſcriptures did not ſtand
+faſt,</hi> de Doct. Chriſt. Lib. <hi>1.</hi> Cap. <hi>37.</hi>
+            </p>
+            <pb facs="tcp:109129:5"/>
+            <p>St. <hi>Chryſoſt.</hi> ſaith, <hi>The ſcri<g ref="char:EOLhyphen"/>ptures are
+eaſie to be under<g ref="char:EOLhyphen"/>ſtood, and are expoſed to the capacity of every Servant
+and Plow-Man, and Widow, and Boy, and therefore God Pen<g ref="char:EOLhyphen"/>ned the ſcriptures by
+the hand of Publicans, Fiſher-men, Tent-makers, Neat-heards, and Unlearned
+men, that none of the ſimple people might have any excuſe to keep them from
+reading,</hi> Hom. 1. in Mat.</p>
+            <p>Again be ſaith, <hi>That what<g ref="char:EOLhyphen"/>ſoever is required to
+ſalvation is all ſet down in ſcriptures, neither is there any thing
+wanting there, that is need<g ref="char:EOLhyphen"/>full <pb facs="tcp:109129:5"/>for mans ſalvation,</hi> Hom.
+<hi>41.</hi> in Mat.</p>
+            <p>
+               <hi>Juſtin Martyr</hi> ſaith, <hi>That we ſhould hear the
+words of the ſcriptures, which are ſo plain and eaſie, that they need no
+Expoſition, but to be re<g ref="char:EOLhyphen"/>hearſed, Dialogue</hi> cum Tri<g ref="char:EOLhyphen"/>phon.
+<hi>213.</hi>
+            </p>
+            <p>St. <hi>Hierome</hi> ſaith, <hi>What<g ref="char:EOLhyphen"/>ſoever things men find
+and feign without the Authority, and Teſtimony of the ſcrip<g ref="char:EOLhyphen"/>tures, as if
+they were from A<g ref="char:EOLhyphen"/>poſtolical Tradition are ſmit<g ref="char:EOLhyphen"/>ten by the ſword of
+God,</hi> ſee Comment. in Hagg. Cap. <hi>2.</hi>
+            </p>
+            <p>On the other hand, the Ro<g ref="char:EOLhyphen"/>man Catholicks ſay, <hi>The
+ſcrip<g ref="char:EOLhyphen"/>tures <pb facs="tcp:109129:6"/>are no certain Rule, no Infallible guide; and that
+all things neceſſary to ſalvation, are not contained in them;</hi> See
+the Books Entituled, the <hi>Queſtion</hi> of <hi>Queſtions,</hi> and
+<hi>Fiat Lux,</hi> and the Epiſtle Pub<g ref="char:EOLhyphen"/>liſhed by <hi>Everard,</hi> to which
+this Anſwer is Directed. They for<g ref="char:EOLhyphen"/>bid the People to uſe and ſearch them.
+See <hi>Everards Epiſtle</hi> pa. <hi>14.</hi> He ſaith, <hi>Thoſe words
+in the 5. of</hi> John <hi>are ſo far from being a Command to ſearch the
+ſcriptures, that they rather ſeem a reprehenſion to all that have ſuch
+a conceit of them.</hi>
+            </p>
+            <p>Again they ſay, <hi>The ſcrip<g ref="char:EOLhyphen"/>tures <pb facs="tcp:109129:6"/>are fitted to
+the time, and are variably underſtood; the ſenſe whereof being one while
+this, and again, another while that, according as it pleaſeth the Church to
+change her judgement.</hi> See <hi>Cuſan. Ep. 2.37.</hi>
+            </p>
+            <p>Again, The Biſhop of <hi>To<g ref="char:EOLhyphen"/>ledo's</hi> putting forth the Bible
+in divers Languages, puts the Latine Tranſlation in the midſt between the
+Hebrew and Greek, and then ſaith, <hi>the Greek and Hebrew he placed of
+either ſide as two Thieves, and the Latine between them, as Je<g ref="char:EOLhyphen"/>ſus
+Chriſt.</hi>
+            </p>
+            <p>Others of them call the Scri<g ref="char:EOLhyphen"/>ptures <pb facs="tcp:109129:7"/>
+               <hi>a noſe of
+wax,</hi> that may be writhed any way, and a <hi>dumb Judge,</hi> &amp;c.</p>
+            <p>Now whoever ſhall but im<g ref="char:EOLhyphen"/>partially lay the judgment, of theſe
+men concerning the Scri<g ref="char:EOLhyphen"/>ptures in the ballance of the Sanctuary, and compare
+them with what Chriſt, his Apoſtles, and their followers judged of them,
+may eaſily ſee that there is more excellency in the gleanings of the
+Scriptures, then in the full Vintage of the Pope and all his Cardinals; whoſe
+Vines are like thoſe of <hi>Sodom,</hi> by reaſon whereof, the Nations have
+been intoxicated, and made drunk with the wine of her fornication. <pb facs="tcp:109129:7"/>For if they were not drunk, they would never quit both Scri<g ref="char:EOLhyphen"/>pture and
+Reaſon, and the Spi<g ref="char:EOLhyphen"/>rit of God, all that by which they become both Men and
+Chri<g ref="char:EOLhyphen"/>ſtians, to hearken to the voice of the <hi>Romiſh</hi> Charmers, who
+ra<g ref="char:EOLhyphen"/>ther then they will want water to carry Proſelytes to the
+<hi>Romiſh</hi> Sea, care not though they open the flood-gates of Atheiſm
+and Antiſcripturiſm upon the Chri<g ref="char:EOLhyphen"/>ſtian World. For who ſeeth not (but
+he that is willing to be blind) that the arguments le<g ref="char:EOLhyphen"/>vied by them for wounding
+the reputation of Scriptures, are as a ſharp ſword ready to paſs through
+the reins of Chriſtianity <pb facs="tcp:109129:8"/>it ſelf. For the prevention whereof,
+I have publiſhed this enſuing Anſwer, which I do de<g ref="char:EOLhyphen"/>ſire may be
+impartially conſider<g ref="char:EOLhyphen"/>ed; and the Lord give you un<g ref="char:EOLhyphen"/>derſtanding in all
+things, and open your underſtanding, that you may underſtand the
+Scri<g ref="char:EOLhyphen"/>ptures; that ſo taking to your ſelves the ſwords of the Spirit,
+which is the word of God, you may be able to reſiſt all the ad<g ref="char:EOLhyphen"/>verſaries
+of your pretious ſouls, who daily ſeek to make merchan<g ref="char:EOLhyphen"/>dize of you; and
+that you may ſo do, ſhall be the Prayers, and Deſires of thy Friend,</p>
+            <closer>
+               <signed>J. I.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109129:8"/>
+            <head>
+               <hi>Rome is no Rule:</hi> OR, An Anſwer to an Epiſtle
+publiſhed by a Roman Ca<g ref="char:EOLhyphen"/>tholick who ſtiles himſelf Cap. ROBERT
+EVERARD.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I ſhall engage a<g ref="char:EOLhyphen"/>gainſt the main body of this
+diſcourſe, I ſhall take a view of its Front and Rear, I mean the Title
+and Poſt-ſcript: In the Title you have the ſuperſcription of <hi>An
+Epiſtle to the ſeveral Congregations of Non-con<g ref="char:EOLhyphen"/>formiſts.</hi>
+            </p>
+            <pb n="2" facs="tcp:109129:9"/>
+            <p>Here I would gladly be informed who you mean by this term of
+diſ<g ref="char:EOLhyphen"/>crimination, <hi>Non-Conformiſts,</hi> either you mean all that Conform
+not to the Church of <hi>Rome,</hi> or all that Conform not to the Church of
+<hi>England;</hi> if you mean all that Con<g ref="char:EOLhyphen"/>form not to the Church of
+<hi>Rome,</hi> then the Church of <hi>England</hi> is con<g ref="char:EOLhyphen"/>cerned in this
+Epiſtle, and rec<g ref="char:EOLhyphen"/>koned by you among all other Sects and Hereticks: but if by
+<hi>Non-Con<g ref="char:EOLhyphen"/>formiſts</hi> you would diſcriminate all that Conform not to
+the Church of <hi>England,</hi> then your Mother the pre<g ref="char:EOLhyphen"/>tended Holy Catholick
+Church is concerned in your Epiſtle, they be<g ref="char:EOLhyphen"/>ing <hi>Non-Conformiſts</hi>
+to the Church of <hi>England,</hi> as well (or rather as ill) as others; and
+good reaſon ſhe ſhould be concerned, ſince ſhe hath furniſhed you
+with all your Weapons for this Warfare out of here Armoury: and it is but a
+piece of gratitude to direct that to her <pb n="3" facs="tcp:109129:9"/>which you ſo
+lately received from from her: for he that hath a hand to take, and not a
+tongue to return thanks, deſerves for the future to be both lame and
+dumb.</p>
+            <p>Having viewed the Superſcripti<g ref="char:EOLhyphen"/>on, I come to the Subſcriber,
+and he is no leſs then a Captain, <hi>Captain Robert Everard.</hi> But where
+was he a Captain, and whom did he com<g ref="char:EOLhyphen"/>mand? Let him ſpeak for himſelf he is
+old enough. He tells us <hi>he was at the head of a Troop in the rebellious
+Army:</hi> See his <hi>Poſt-ſcript, p.</hi> 40.</p>
+            <p>But what a ſhame is this, that this Honour was not laid in the
+duſt, rather then prefixed in the Title of a Book? Surely had you been truly
+humbled for that Rebellion, as you pretend, you would have ſaid of all the
+honour that you acquired thereby, as <hi>Ephraim</hi> ſaid of his Idols;
+<hi>What have I to do any more with you?</hi>
+            </p>
+            <p>In the next place I cannot but ob<g ref="char:EOLhyphen"/>ſerve <pb n="4" facs="tcp:109129:10"/>the
+place where this Epiſtle was printed, and if you will believe it, it was
+printed at <hi>Paris.</hi> I ſee you have learned one, if not all the the
+three things which a learned man obſerves Children ſoon learn of their
+Mothers, Pride, Revenge, and Lying: this laſt appears in that you have made a
+Lye your refuge, by ſaying your Epiſtle was printed at <hi>Paris.</hi> But
+let me ask you the Queſtion which you ask your Rea<g ref="char:EOLhyphen"/>der, <hi>p.</hi> 20.
+<hi>who will adventure</hi> (ſay you) <hi>to make oath the Scriptures we
+have, agree with the Originals?</hi> So ſay I, Who will adventure to make
+oath that this Epiſtle was printed at <hi>Paris?</hi> Surely we are like to
+meet with little truth in the Houſe when a Lye in Capitals, and a Capital Lye
+is inſcribed on the Porch, as a <hi>London</hi> Printer will witneſ, to
+your <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace, if occaſion
+ſerve.</p>
+            <p>I come now to the Poſt-ſcript,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herein you caution your
+Reſpon<g ref="char:EOLhyphen"/>dent, <pb n="5" facs="tcp:109129:10"/>
+               <hi>p.</hi> 39. <hi>to ſet down your own
+words as they lye intirely, without maintaining them:</hi> and alſo, <hi>if
+he anſwers by Pa<g ref="char:EOLhyphen"/>ragraphs, to ſet down your whole Para<g ref="char:EOLhyphen"/>graphs.</hi>
+            </p>
+            <p>Sir, give me leave to tell you, that you require a thing
+impoſſible; for there is in your Epiſtle ſo little of you, as any one
+may perceive (by your own words) and by comparing it with the Book Entituled,
+(<hi>The Queſtion of Queſtions,</hi> and <hi>Fiat Lux</hi>) that it is hard
+to ſay whether any thing by yours beſides theſe three words, CAPTAIN
+ROBERT EVERARD, and therefore if you would have had a diſtinct An<g ref="char:EOLhyphen"/>ſwer to
+all your Arguments, you ſhould have diſtinguiſhed what had been yours,
+from what was other mens, by a different Character, as is uſual in ſuch
+caſes.</p>
+            <p>You go on in your Poſt-ſcript and forewarn your Reſpondent,
+<hi>that be ſet not up a Puppit of his own in <pb n="6" facs="tcp:109129:11"/>ſtead of
+Anſwering.</hi> If he doth ſet up a Puppit of his own, he hath done more
+then you, who have ſcarce ſet up any thing of your own, beſides your
+name. <hi>But</hi> (what) <hi>if be ſet up a Puppit of his own and call it
+yours,</hi> (you ſay) <hi>he will not make your Ar<g ref="char:EOLhyphen"/>guments, but his own
+ridiculous.</hi> Tru<g ref="char:EOLhyphen"/>ly he may poſſibly make his own, but he cannot make
+your Argu<g ref="char:EOLhyphen"/>ments ridiculous, becauſe he knows not any one that is yours in all
+the Epiſtle.</p>
+            <p>The next thing you caution your Reſpondent is, <hi>That he would
+forbear all reproaches and ſlanders againſt the Catholick Church, or
+Catholicks in gene<g ref="char:EOLhyphen"/>ral, or in particular, which</hi> (ſay you) <hi>is a fault
+Protestants are too much in ge<g ref="char:EOLhyphen"/>neral addicted to.</hi>
+            </p>
+            <p>Sir, I perceive this Counſel is ea<g ref="char:EOLhyphen"/>ſier given then taken,
+elſe why do you reflect reproach upon Prote<g ref="char:EOLhyphen"/>ſtants in general in the ſame
+breath, in which you invite them to for<g ref="char:EOLhyphen"/>bear reproaches?</p>
+            <pb n="7" facs="tcp:109129:11"/>
+            <p>Again, You ſay, <hi>That the Presbyte<g ref="char:EOLhyphen"/>rians and Independents do
+by the Catho<g ref="char:EOLhyphen"/>licks as they did by his late Majesty of glorious memory, and with
+our moſt dread Soveraign that now is, and their Party,</hi> (viz.) <hi>to
+impute crimes to them with<g ref="char:EOLhyphen"/>out end, and errours innumerable, without taking
+care to examine whether what they charged was true or falſe.</hi>
+            </p>
+            <p>Sir, I have four or five things to ask you; 1 Whether you did
+uſe to do ſo by the Kings Majeſty when you were an Independent, and at
+the head of your Rebellious Troop? 2 Whether you believe the Kings Majeſty
+hath pardoned you and all that were ſo wickedly minded? 3 Whether ſince you
+were pardon<g ref="char:EOLhyphen"/>ed, you would have any to upbraid you with thoſe pardoned Crimes?
+If not, then 4 Why do you that pretend to ſo much Charity, do that to others,
+you would not be done unto? Laſtly, Why do you violate the Law of your
+Soveraign, who <pb n="8" facs="tcp:109129:12"/>hath forbidden upon a penalty, that thoſe
+things ſhould be remembred againſt any that he hath been plea<g ref="char:EOLhyphen"/>ſed to bury
+in Oblivion? But Sir, if you were not a Novice in the Catholick Way, you might
+know that the people you are now fallen in with, have been the moſt guilty
+(in ſpeaking evil of, and do<g ref="char:EOLhyphen"/>ing evil to men in Authority) of any that ever
+mentioned the Name of Chriſt; witneſs their traducing King <hi>Henry</hi>
+8. for that ever to be admired, and to be remembred work of his, in throwing
+off the Popes Supremacy; how have the Romaniſts reported it as a
+Conſe<g ref="char:EOLhyphen"/>quent of his Luſt and Levity? How then can they have any regard to
+the preſent Rulers, who daily re<g ref="char:EOLhyphen"/>vile their Predeceſſors, wherein a<g ref="char:EOLhyphen"/>ny of
+them have acted againſt their Intereſts? witneſs both the Gun<g ref="char:EOLhyphen"/>powder
+Treaſon, and the <hi>Iriſh</hi> Re<g ref="char:EOLhyphen"/>bellion. And what good Allegi<g ref="char:EOLhyphen"/>ance 
+<pb n="9" facs="tcp:109129:12"/>can his Majeſty that now is ex<g ref="char:EOLhyphen"/>pect from you? Who
+forſaking a People that deſtroyed one King, and pretending repentance for
+that, go and joyne with a people whoſe Principle is to Depoſe and Deſtroy
+Kings.</p>
+            <p>Paſſing from your Title and Poſt-Script, I now come to
+Encounter with the main Body of your Epi<g ref="char:EOLhyphen"/>ſtle: In the Front whereof
+<hi>You</hi> place a Text out of the great St. <hi>Austine</hi> againſt
+<hi>Manicheus,</hi> whoſe Words are theſe; <hi>If thou ſhalt find any one
+who doth not as yet believe the Goſpel, what wilt thou do when he ſhall
+ſay unto thee, I do not believe? But neither had I be<g ref="char:EOLhyphen"/>lieved the Goſpel,
+unleſs I had been thereunto moved by the Authority of the Catholick Church:
+Thoſe therefore to whom I ſubmitted, when they required me to believe the
+Goſpel; why ſhould I not yield Obedience to them, when they perſwade me
+not to believe</hi> Maniche<g ref="char:EOLhyphen"/>us.</p>
+            <pb n="10" facs="tcp:109129:13"/>
+            <p>Thus ſpeaks <hi>Auſtine,</hi> and more to the ſame
+purpoſe: lo which I An<g ref="char:EOLhyphen"/>ſwer, That this Text out of <hi>Auſtine</hi> may
+be applyed to any Church as well as to yours; And if the Church of
+<hi>England</hi> ſhall perſwade any one that is a <hi>Jew,</hi> to turn,
+and become a Chriſtian, may he not ſay he did well to believe them when
+they perſwaded him to believe the Goſ<g ref="char:EOLhyphen"/>pel? Why therefore ſhould he not
+believe them when they perſwade him not to turn Roman Catholick? But to this
+Text I ſhall ſubjoyne Two Texts more out of the ſame Authour againſt
+the <hi>Donatiſts: The Queſtion</hi> (ſaith he) <hi>between Us and
+the</hi> Donatiſts, <hi>is, where is the Church?</hi> This is the Queſtion,
+between the Proteſtants and the Romaniſts; He Anſwers, <hi>Let not
+theſe Speeches be heard among you; This I ſay and this thou ſayest, but
+let us hear what the Lord ſayes: There are certain Books of God, unto whoſe
+Authority we both conſent. <pb n="11" facs="tcp:109129:13"/>There let us try our Cauſe;
+There let us ſeek the Church: And again in the Scriptures, have we learned
+Chriſt; In the Scriptures, have we learned the Church,</hi> Ep. 166. <hi>ad
+Donatift.</hi> Whoſoever ſhall compare theſe Texts out of
+<hi>Auſtine,</hi> may eaſily ſa<g ref="char:EOLhyphen"/>tisfie himſelf. What his Judgment was
+in the Queſtion between You and Us, <hi>(viz.)</hi> whether we ſhould learn
+Chriſt and the Scriptures from the Church, or whether we ſhould learn
+Chriſt and the Church from the Scriptures? To this pur<g ref="char:EOLhyphen"/>poſe
+<hi>Epiphanius</hi> ſpeaking of a Heri<g ref="char:EOLhyphen"/>tick, Saith; <hi>This Man is found
+differ<g ref="char:EOLhyphen"/>ing from the</hi> HOLY SCRIP<g ref="char:EOLhyphen"/>TURES, <hi>as will appear to all Men that
+Read attentively: If he then diſſent from them, he is altogether an Alien
+to the Holy Catholick Church, Epipha<g ref="char:EOLhyphen"/>nius Tom.</hi> 1. <hi>lib.</hi> 2.
+<hi>haer.</hi> 48. It ſeems in his time, all men were permitted to read the
+Scriptures attentively, to inform iheir minds in the Truth; <pb n="12" facs="tcp:109129:14"/>whatever is now a dayes pretended to the contrary.</p>
+            <p>I proceed now to the Epiſtle it ſelf; In the beginning
+whereof, <hi>Page</hi> 1. You give an account of the Reaſons of its
+Publication; which are; <hi>To Anſwer Expectation, to pre<g ref="char:EOLhyphen"/>vent the World from
+cenſuring, and to manifest your charity to your late dear Brethren, from whom
+you have received returns of Aſſection.</hi>
+            </p>
+            <p>I did expect that among thoſe Mo<g ref="char:EOLhyphen"/>tives that prevailed with you
+to publiſh the grounds of your change; I ſhould have found you ſaying,
+that the Glory of God had been the chief moving Cauſe: But I finde not a word
+of that, and therefore however you may have Anſwered the Expectations of
+others; I am ſure you have not anſwered mine.</p>
+            <p>But further you ſay, you publiſh<g ref="char:EOLhyphen"/>ed your Epiſtle, <hi>To
+prevent the World from cenſuring:</hi> Sir, whatever you promiſed your
+ſelfe in the begin<g ref="char:EOLhyphen"/>ning <pb n="13" facs="tcp:109129:14"/>of your Book, your heart fail<g ref="char:EOLhyphen"/>ed
+for fear of obtaining, when you had finiſhed it; And therefore you are forced
+to Ride Poſt after your Reader, and pray him, <hi>That he would not up-braid
+you; As if you had ſome private ends of your own, in your preſent
+change:</hi> See the Poſt-Script in <hi>Page</hi> 40.</p>
+            <p>Which plainly ſhews that you had ſome miſ-givings of heart,
+that all you had ſpoken throughout your Book would not Anſwer your end,
+<hi>(Viz.) Keep the World from cenſuring.</hi> And as for that other end,
+which you pretend in the publiſhing of your Book; Namely, <hi>Charity to your
+late Brethren.</hi> Truly whatever you pretend, they will ſcarce believe you,
+becauſe in your Poſt-Script you uncharitably impute the Calumnies and
+Slanders that were caſt upon his late Majeſty, and his Majeſty that now
+is, to the Preſbiterians, and Independens Indefinitly with<g ref="char:EOLhyphen"/>out 
+<pb n="14" facs="tcp:109129:15"/>exception: Is this Charity? And this uncharitableneſs of
+yours, is grievouſly aggravated; Firſt, Be<g ref="char:EOLhyphen"/>cauſe it is baſely remembred
+by you, who were in the ſame Con<g ref="char:EOLhyphen"/>demnation with others; And, Se<g ref="char:EOLhyphen"/>condly,
+Becauſe it is mentioned af<g ref="char:EOLhyphen"/>ter it hath been pardoned by the Kings Majeſty;
+And is this your gratefull return for that love which your late Brethren have
+manifeſted to you? If ſo, ſurely the charity of a Catholick, and the
+mercies of the wicked, are alike cruel.</p>
+            <p>You proceed like a Romane Ca<g ref="char:EOLhyphen"/>tholick, and in the latter end of
+<hi>page</hi> the 1. Sound a Trumpet in your own praiſe, by ſaying,
+<hi>That your carriage was alwaies ſuch,</hi> (while you was in Communion
+with them (meaning your late Brethren) <hi>As gave them ſufficient reaſon
+to believe that you was not Byaſſed by world intereſts and ſelfiſh
+conſiderations.</hi> But if any body believes ſo, they may erre; 
+<pb n="15" facs="tcp:109129:15"/>becauſe they do not believe as the Church believes.</p>
+            <p>In the Second Page, you tell us, how you came to be acquainted
+with a Lay Gentle-Man of the Ca<g ref="char:EOLhyphen"/>tholick perſwaſion, and how he
+in<g ref="char:EOLhyphen"/>terrogated you about the grounds of Chriſtian Religion: The ſub<g ref="char:EOLhyphen"/>ſtance
+of his Queſtions was to this purpoſe; <hi>Whether you were ſure the
+Christian Religion in General was more true then the Religion of</hi> Turks,
+Jews, <hi>or any others,</hi> &amp;c? <hi>The Reaſon he gave for this
+queſtion was, that if neither your ſelf, nor thoſe that taught you, that
+Chriſtianity was the only ſafe way to Sal<g ref="char:EOLhyphen"/>vation was infallibly certain; or
+were capable of any mistakes or errour in this thing: Then it followed that
+Chriſti<g ref="char:EOLhyphen"/>anity was but probable, and not cer<g ref="char:EOLhyphen"/>tain.</hi>
+            </p>
+            <p>From Page ſecond, to the eighth, you recite what Arguments your
+Catholick Friend uſed to prove theſe things to you, <hi>(Viz.) That we 
+<pb n="16" facs="tcp:109129:16"/>could not convince a</hi> Turk <hi>or a</hi> Jew <hi>of the
+certainty of Christianity but by the Churches Infallibility;</hi> Which I
+for<g ref="char:EOLhyphen"/>bear to make a reply unto, partly be<g ref="char:EOLhyphen"/>cauſe it is but a Narrative of a
+pri<g ref="char:EOLhyphen"/>vate Conference between you and that Catholick Gentle-Man; And chiefly
+becauſe I ſhall have occa<g ref="char:EOLhyphen"/>ſion to ſpeake to the very ſame things in
+my following Anſwers to your Arguments, to which I refer the Reader.</p>
+            <p>You come in the latter end of the 8. <hi>Page,</hi> to tell us
+what Effects this Conference had upon your under<g ref="char:EOLhyphen"/>ſtanding; as that thereupon,
+<hi>You reſolved to have Recourſe to Almighty God by Prayer for his Divine
+aſsiſtance, and to make it your buſineſſe according to your skill and
+underſtanding, to take a full view of the Catholick Faith, and of
+Chri<g ref="char:EOLhyphen"/>ſtianity, and laying aſide all Prejudices, Pride, and Humours; You
+Reſolved to embrace (by the aſsſtance of God) what<g ref="char:EOLhyphen"/>ſoever you ſhould
+underſtand to agree to <pb n="17" facs="tcp:109129:16"/>his moſt Holy Will and
+Pleaſure.</hi>
+            </p>
+            <p>Hereupon let me aske you a few queſtions; Firſt, how are you
+ſure you had a Divine Aſſiſtance in this choice, as an Anſwer to your
+Prayers, ſince when you made theſe Prayers, you were not a member of your
+pretended Catholick Church? Secondly, How are you ſure, ſince the heart of
+Man is deceitfull, that your heart did not deceive you, when it inclined you to
+Popery? Thirdly, When you ſay you made this ſearch according to the
+utter<g ref="char:EOLhyphen"/>moſt of your underſtanding, how do you infallibly know that your
+underſtanding was not depraved, and that you were not given over to an
+injudicious mind? Fourthly, Did you not pretend to have uſed the ſame means
+to find out the true Church when you turned an Inde<g ref="char:EOLhyphen"/>pendent, as you did when
+you did turn Papiſt? Laſtly, If ſo, how are you more able to Anſwer the
+<hi>Turk</hi> 
+               <pb n="18" facs="tcp:109129:17"/>or <hi>Jew</hi> now, then you were when your
+Catholick Friend began to diſcourſe with you?</p>
+            <p>In the latter end of <hi>p.</hi> 8. and the beginning of the 9.
+You ſay, that <hi>You gathered from</hi> Heb. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.6. Mark 16.16. Eph. 4.5. 2 Cor. 10.45. Heb 10.13.
+<hi>From all which scrip<g ref="char:EOLhyphen"/>tures (where God requires Faith)</hi> you ſay)
+<hi>you thought it did naturally fol<g ref="char:EOLhyphen"/>low that there muſt be ſome means
+ap<g ref="char:EOLhyphen"/>pointed by God, by which we may know this true faith from all falſe
+Opinions, or elſe you ſay,</hi> p. 10. <hi>that propheſie would be
+ineffectual,</hi> Eſay 35. <hi>Say to them that are of a fearfull heart, Be
+ſtrang, fear not, hebold your God will come and ſave you: Then the eyes of
+the blind ſhall be opened, and the eares of the deaf ſhall be
+unſtopped,</hi> &amp;c. <hi>There ſhall be one high way, and a way, and it
+ſhall be called the holy way; the way faring men, though fools ſhall not
+erre therein.</hi>
+            </p>
+            <pb n="19" facs="tcp:109129:17"/>
+            <p>Now ſince God hath appointed ſuch a way; <hi>Your great
+difficulty</hi> (you ſay) <hi>is to finde out the Rule and the Judge, ſince
+one party propoſeth the ſpirit to be his guide; a Second, propoſeth
+Reaſon to be his Rule; A Third, propoſeth Scriptures; The Fourth
+aſſigneth the Holy Catholick Church,</hi> &amp;c.</p>
+            <p>You anſwer to the Firſt, and ſay, <hi>That the ſpirit
+bearing witneſs with our ſpirts, or in plain terms, the pri<g ref="char:EOLhyphen"/>vate ſpirit
+is not that judge:</hi> Your reaſon is, <hi>becauſe any one, whether he be
+Jew, Pagan, or Chriſtian, if he have but confidence enough may pre<g ref="char:EOLhyphen"/>tend to
+the Spirit.</hi>
+            </p>
+            <p>But ſince (you ſay) the great dif<g ref="char:EOLhyphen"/>ficulty is to finde out the
+Rule, I would gladly know how this dif<g ref="char:EOLhyphen"/>ficulty ſhall be infallibly
+reſolved? For if the private ſpirit within me muſt not reſolve me, nor
+my reaſon muſt not be my Rule, nor the Scrip<g ref="char:EOLhyphen"/>tures my Guide; then I have no
+<pb n="20" facs="tcp:109129:18"/>light left me to ſhew me the Church, but the Church. Thus
+they deal like thieves, put out all other lights, that ſhould diſcover them
+but their own dark lanthorn; But if you ſhall ſay that you prove the Church
+by Miracles; How ſhall I be ſatisfied that thoſe Miracles are not
+deluſions? Since as many pre<g ref="char:EOLhyphen"/>tend to the ſpirit that have it not; So many
+pretend to miracles that have them not: Then we muſt have faith to believe
+thoſe miracles are true, and if they are true, they are no otherwiſe true
+but by the ſpi<g ref="char:EOLhyphen"/>rit of God: Then it is the ſame ab<g ref="char:EOLhyphen"/>ſurdity to believe
+miracles by the ſpirits teſtimony, as it is to believe the Scriptures by
+the ſpirits teſtimo<g ref="char:EOLhyphen"/>ny: But this alſo implies a contra<g ref="char:EOLhyphen"/>diction, for if I
+muſt finde the Church by the light of the ſpirit, perſwading me that
+ſhe doth thoſe miracles by the power of God, then
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave you contradicted your ſelf,
+by <pb n="21" facs="tcp:109129:18"/>ſaying, <hi>The ſpirit is not the guide:</hi> But
+further, may not a man as well ſay that he believes he hath the ſpi<g ref="char:EOLhyphen"/>rit by
+the ſpirit; and that he be<g ref="char:EOLhyphen"/>lieves the Scriptures by the Scrip<g ref="char:EOLhyphen"/>tures; as you
+ſay, you believe the Church by the Church. I am ſure the laſt is the
+greateſt abſurdity, and may not a Turk ſay the ſame for his way, that
+he believers Mahomet by Mahomet, and the Alcoran by the Alcoran, (as you
+believe) the Church by the Church. Now if you ſhall ſay, you believe the
+Church by the Scripture, then the queſtion will be, how you know them to be
+the Word of God? If you ſay, becauſe the Church teaches they are ſo; then
+you run round (like a horſe in a Mill) proving the Church by the Scripture,
+and the Scripture by the Church.</p>
+            <p>You give another Reaſon, why the ſpirit witneſſing within
+us, is not the guide appointed by God, <pb n="22" facs="tcp:109129:19"/>
+               <hi>(becauſe by
+this none that ever pretended to it did reconcile differences.</hi>
+            </p>
+            <p>Pray let charity begin at home; if your Church be ſo infallible;
+why do not you decide the differ<g ref="char:EOLhyphen"/>ences that are between the Jeſuites, and the
+Dominicans? hath not as endleſs controverſies ariſen among you? Hath not
+as many Errours, and Schiſmes ſprung from you, as from any People
+profeſſing Chriſti<g ref="char:EOLhyphen"/>anity? And would not your diviſi<g ref="char:EOLhyphen"/>ons be greater, if
+the power of the Sword did not prevail more then your pretended Infallibility?
+And whereas you ſay, <hi>St.</hi> John <hi>preſcri<g ref="char:EOLhyphen"/>beth a Rule to know the
+Spirit of Truth, from the Spirit of Errour,</hi> 1 Joh. 4. <hi>We are of God,
+he that knoweth God hear<g ref="char:EOLhyphen"/>eth us, and he that is not of God, heareth not us;
+Hereby we know the Spirit of Truth, from the Spirit of Errour.</hi> Now what is
+this to your purpoſe, unleſs you would ſtill beg the queſtion; That
+your Church and her Doctors, <pb n="23" facs="tcp:109129:19"/>are intended in thoſe words,
+WE and US? But what if it be proved that you do not hear the Apoſtles? Then
+it follows by the Text, and your own Argument, that you have the Spirit of
+Errour. Now the Apoſtle taught that a Man ſhould examine himſelf, and
+ſo let him eat of that bread, and drink of that cup; but you deny the cup to
+the common people; is this hear<g ref="char:EOLhyphen"/>ing the Apoſtles? The Apoſtle al<g ref="char:EOLhyphen"/>lows the
+Biſhops to be Huſbands of one Wife; but you forbid that they ſhould have
+any at all. The Apo<g ref="char:EOLhyphen"/>ſtles would not have Prayers ſaid in a Language that
+the People under<g ref="char:EOLhyphen"/>ſtood not; but you command it. Chriſt and the Apoſtles
+command<g ref="char:EOLhyphen"/>ed a diligent reading, and ſearching of the Scriptures; but you
+forbid it, and yet you are the only Men that muſt be heard, though you teach
+contrary to Scripture.</p>
+            <pb n="24" facs="tcp:109129:20"/>
+            <p>You go on, and ſay, <hi>That Reaſon muſt not be our Judge,
+becauſe it muſt ſubmit to the Judge as a Subject, &amp;c.</hi> I pray,
+what was your Judge? who reſolved the queſtion which you ſay, <hi>had
+ſo much difficulty in it (viz.)</hi> who ſhould direct you whether any
+Church was Infallible, or no? or where that Church was to be found? Did your
+reaſon guide you in this ſearch or no? If it did not, I do not wonder you
+made no bet<g ref="char:EOLhyphen"/>ter choiſe, but you ſay, <hi>Reaſon is not your Rule,
+becauſe it was to ſubmit as a Vaſſall to that Rule and Judge.</hi> But
+Sir, Though the Church of <hi>Rome,</hi> (which you call your Judge) do
+ex<g ref="char:EOLhyphen"/>erciſe ſuch a Lordſhip over the rea<g ref="char:EOLhyphen"/>ſons of Men, I am ſure you
+have given no reaſon why it ſhould be ſo. You ſay Reaſon is apt to
+mi<g ref="char:EOLhyphen"/>ſtake; and therefore we ought not to be governed by it: But Sir, what if I
+ſay the Pope is apt to mi<g ref="char:EOLhyphen"/>ſtake; and therefore I ought not to 
+<pb n="25" facs="tcp:109129:20"/>be governed by him. I am ſure, if that be made to appear
+in the judg<g ref="char:EOLhyphen"/>ment of Reaſon, then Reaſon will guide me to decline following
+ſuch a blind Guide. As for example, <hi>Li<g ref="char:EOLhyphen"/>berius</hi> that was Pope about
+the year 350 fell into <hi>Arianiſm,</hi> and ſubſcri<g ref="char:EOLhyphen"/>bed to the unjuſt
+excommunicating <hi>Athanaſius.</hi>
+            </p>
+            <p>Again, The Council of <hi>Constance</hi> depoſed Pope
+<hi>John</hi> 23. where it was proved that he held <hi>there was no eter<g ref="char:EOLhyphen"/>nal
+life, nor Immortality of the ſoul, nor Reſurrection of the dead.</hi>
+            </p>
+            <p>Pray Sir, let Reaſon judge whe<g ref="char:EOLhyphen"/>ther I may follow ſuch a
+Catholick Guide.</p>
+            <p>You add a third Reaſon to prove <hi>that Reaſon is not judge
+in matters of Faith, for then</hi> (ſay you) <hi>it would fol<g ref="char:EOLhyphen"/>low that it is
+poſſible to pleaſe God, for Reaſon would teach us how to pleaſe
+him.</hi>
+            </p>
+            <p>May not a man from the ſame Premiſes infer that your Church is
+<pb n="26" facs="tcp:109129:21"/>not the Judge? becauſe then it would follow that it is
+poſsible to pleaſe God without Faith, becauſe the Church would teach us
+how to pleaſe him. But you will ſay the Church doth teach us to pleaſe
+God by Faith; I ſay it is well if ſhe do: But what is this to the
+purpoſe, ſhe did not teach us to pleaſe God by Faith before it was
+required, and made known to us that God would be ſo pleaſed. In like
+manner, Rea<g ref="char:EOLhyphen"/>ſon will direct a man to do the ſame when he is informed God
+requireth ſuch a duty. But muſt not the Scri<g ref="char:EOLhyphen"/>pture, nor my private Spirit,
+nor my Reaſon judge? I pray then tell me how I ſhall be the better for all
+you have written? for if my Rea<g ref="char:EOLhyphen"/>ſon muſt not judge of the fallibility, and
+infallibility of your Arguments, then you had as good have told your late
+Brethren thus: <hi>My B<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tren, I
+ſee that there is a great difference and contention among us, whether the
+Ro<g ref="char:EOLhyphen"/>man <pb n="27" facs="tcp:109129:21"/>Church be infallible or not; This Controverſie
+cannot be judged by a private Spirit, for that may ſail; nor by Reaſon,
+becauſe mens Reaſons are uncertain, and ſubject to variation; neither are
+the Scriptures an infalli<g ref="char:EOLhyphen"/>ble Judge of Controverſies, therefore they cannot
+judge of this: Let me therefore adviſe you of a way to decide this
+queſtion. Firſt, Agree that the Roman Church is infallible, and then your
+contention, whether the Roman Church be infallible, will ſoon be en<g ref="char:EOLhyphen"/>ded. An
+excellent advice, becauſe</hi> (you ſay) <hi>all other ways to judge and
+decide controverſies are fallable.</hi>
+            </p>
+            <p>You now come in the third place to enquire whether the Scripture
+be ſufficient to teach us the true Faith, &amp;c. (You ſay) <hi>You found
+this high<g ref="char:EOLhyphen"/>ly contended for, and ſeveral rea<g ref="char:EOLhyphen"/>ſons urged for it.</hi>
+Firſt, <hi>The words of our Saviour,</hi> John 5.39. Search the Scriptures,
+for in them you think to have eternal life, and they <pb n="28" facs="tcp:109129:22"/>are
+they which teſtifie of me. <hi>To this Text</hi> (you ſay) <hi>you found
+ſeve<g ref="char:EOLhyphen"/>ral anſwers given which were ſatisfa<g ref="char:EOLhyphen"/>ctory; I That it doth not
+appear whether this in the Original be the Im perative or the Indicative Mood,
+St.</hi> Cyril (you ſay) <hi>with whom</hi> Beza <hi>agrees) takes it in the
+Indicative Mood.</hi>
+            </p>
+            <p>What a ſtrange Mood are you in then, to give an Anſwer to a
+Text which (you ſay) you were ſa<g ref="char:EOLhyphen"/>tisfied withal? And in the ſame breath
+(you ſay) it doth not appear whether it be the Imperative or the Indicative
+Mood. Do you think infallibility had any aſſinity with this Anſwer? Nay,
+you further ſay, <hi>that they are ſo farr from being a Command to all to
+road and ſearch the Scriptures, that they</hi> RATHER SEEM <hi>a
+Reprehenſion to all that ſhall frame that Conceit of them.</hi> But how can
+this ſenſe of that Text be Catholick, when in ſtead of an 
+<pb n="29" facs="tcp:109129:22"/>infallible Expoſition, you tell us it RATHER SEEMS to be
+ſo then otherwiſe? But what if I ſhould tell you that thoſe words
+(Search the Scriptures) <hi>rather ſeem</hi> a Command then a Reprehenſion?
+I ſhould <hi>ra<g ref="char:EOLhyphen"/>ther ſeem</hi> to be infallible then you. You ſay, <hi>If
+it be the Indicative Mood, the ſenſe will run thus.</hi> You do ſearch
+the Scriptures, and <hi>ſo it ſeems to be a Reprehenſion.</hi> But this
+is a ſenſe con<g ref="char:EOLhyphen"/>trary to <hi>Chryfoſtome, Hom.</hi> 39. <hi>in Joan.
+Chriſt</hi> (ſayes he) <hi>ſends us to the teſtimo<g ref="char:EOLhyphen"/>ny of the
+Scriptures;</hi> then it cannot be that he ſhould reprehend them. And the
+Colledge of <hi>Rhems</hi> tranſla<g ref="char:EOLhyphen"/>ting the Text as we do, give this
+Interpretation of it, <hi>He</hi> (viz.) <hi>Chriſt reprehendeth the
+Jews</hi> (not for read<g ref="char:EOLhyphen"/>ing but) <hi>that reading dayly the Scri<g ref="char:EOLhyphen"/>ptures, and
+acknowledging that in them they ſhould find life; that yet they viewed them
+ſo ſuperficially, that they could not find therein him to be Chriſt,
+their King, Lord, Life, and <pb n="30" facs="tcp:109129:23"/>Saviour.</hi> And in the
+Marginal Note upon this Text, they ſay, <hi>that neither Jews nor Hereticks
+find the truth, becauſe they ſearch not the Scri<g ref="char:EOLhyphen"/>ptures deeply, but read
+ſuperficially.</hi> See <hi>Rhemiſh Annot.</hi> upon <hi>John</hi> 5. Now
+ſee how you contradict your ſelves, you ſay the Scriptures are ſo far
+from being a Command to all to read and ſearch, that they rather ſeem to be
+a reprehenſion to all that ſhall frame that conceit of them. And your
+<hi>Rhemiſh</hi> Commen<g ref="char:EOLhyphen"/>tators ſay that they are reprehend<g ref="char:EOLhyphen"/>ed becauſe
+they did not ſearch deep enough, for if they had, they might have found
+Jeſus to have been their <hi>Chriſt, their King, Lord, Life, and
+Sa<g ref="char:EOLhyphen"/>viour.</hi> And how can the ſaid Anno<g ref="char:EOLhyphen"/>tators give that as a reaſon, why
+<hi>the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ews and Hereticks did not
+find the Truth, becauſe they did not ſearch the Scriptures deep
+enough.</hi> If either of theſe two opinions of your be true, 1 That men are
+reprehended for <pb n="31" facs="tcp:109129:23"/>ſearching the Scriptures. 2 That the
+Scriptures are not an infallible guide to direct us to find the Truth, if the
+whole Colledge have tran<g ref="char:EOLhyphen"/>ſlated and interpreted truly, then ſurely you and
+many of your Au<g ref="char:EOLhyphen"/>thors ſpeak falſly. But if you ſhall ſay the Scriptures
+may direct Jews and Hereticks to the truth, becauſe they direct them to the
+Church, which is the Pillar of Truth: then it follows, 1 That both Jews and
+Hereticks ought to ſearch the Scri<g ref="char:EOLhyphen"/>ptures deeply, to find out the true
+Church. 2 It muſt reſt upon their private judgments of diſcretion to
+determine within themſelves, whe<g ref="char:EOLhyphen"/>ther the <hi>Romaniſts</hi> or the
+<hi>Proteſtants</hi> be that true Church, after they have made this deep and
+diligent ſearch. 3 It follows that the Scripture is an infallible guide,
+being deeply and di<g ref="char:EOLhyphen"/>ligently ſearched; and that the rea<g ref="char:EOLhyphen"/>ſon why both Jews
+and Hereticks err, is not the fallibleneſs of the <pb n="32" facs="tcp:109129:24"/>Scriptures, but want of diligent and deep ſearch; which being
+uſed, they might have found Chriſt to have been their King, Lord, Life, and
+Saviour; they might have found the Truth, and the Church, and conſequently
+all things neceſſa<g ref="char:EOLhyphen"/>ry to Eternal life.</p>
+            <p>You come in the 14 <hi>pag.</hi> to give a ſecond reaſon why
+the words (ſearch the Scriptures) <hi>cannot extend to prove the
+concluſion; becauſe</hi> (you ſay) <hi>if they were uuderſtood in the
+Im<g ref="char:EOLhyphen"/>perative Mood (which cannot infallibly be proved becauſe) they cannot be
+profi<g ref="char:EOLhyphen"/>table to work Faith in them that cannot read, which</hi> (you ſay)
+<hi>are the greateſt part of Mankind.</hi> (You ſay) it can<g ref="char:EOLhyphen"/>not infallibly
+be proved that thoſe words, <hi>ſearch the Scripture,</hi> are in the
+Imperative Mood: but have you that pretend to Infallibility, proved that they
+are in the Indicative Mood. What a madneſs is this, that you ſhould exact
+infallible In<g ref="char:EOLhyphen"/>terpretations <pb n="33" facs="tcp:109129:24"/>from thoſe that do profeſs
+fallibility, and not perform an infallible Interpretation, when you pretend to
+be guided by a Church that is infallible! But you ſay that <hi>if they were
+underſtood in the Imperative Mood, they cannot work Faith in thoſe that
+cannot read.</hi> But then it ſeems they may work Faith in them that can
+read, becauſe (as the <hi>Rhemists</hi> ſay) they can ſhew both Jews and
+Hereticks the Truth, if they ſearch deeply and diligently. But ſecondly,
+How can general Councilsſhew the Truth and beget Faith, ſince (if they are
+infallible) every body cannot read their De<g ref="char:EOLhyphen"/>crees and Canons? If you ſay they
+underſtand thoſe Decrees and Ca<g ref="char:EOLhyphen"/>nons, by the general Conſent of thoſe
+that can read, then by the ſame means may a man that cannot read the
+Scripture be guided by them.</p>
+            <p n="3">3 You ſay, that by <hi>thoſe words <pb n="34" facs="tcp:109129:25"/>(ſearch the Scripture) cannot be un<g ref="char:EOLhyphen"/>derſtood, that the Scriptures
+ſhould be our Judge and guide, becauſe then they would have excluded
+Chriſt, and after him his Apostles from being the infallible means by which
+true Faith was to be taught to the World.</hi> But how doth this follow,
+ſince you ſay the Church under the Old Teſta<g ref="char:EOLhyphen"/>ment was a Judge, and an
+infallible guide. But did their being an infal<g ref="char:EOLhyphen"/>lible guide till Chriſt,
+exclude Chriſt from being a guide: and did Chriſts being a guide when he
+was on the Earth, exclude the Holy Ghoſt from being a guide when he left the
+Earth? In like manner it followeth not, becauſe the Scri<g ref="char:EOLhyphen"/>ptures of the Old
+Teſtament (for of them Chriſt ſpeaks in the place under debate) were a
+guide to inſtruct men into the knowledge of the Meſsiah, that they ſhould
+ex<g ref="char:EOLhyphen"/>clude Him, His Spirit, or Apoſtles from being Guides. But further it 
+<pb n="35" facs="tcp:109129:25"/>followeth by the ſame parity of Reaſon, that if the
+Scriptures of the Old Teſtament could not be an in<g ref="char:EOLhyphen"/>fallible guide, becauſe
+then they would have excluded Chriſt, and after him his Apoſtles from being
+infallible guides. I ſay it follows by the ſame reaſon, that if Chriſt
+and his Apoſtles were infallible Guides and Judges in matters of Faith, that
+then they have excluded the Church of <hi>Rome</hi> from being that infallible
+Guide and Judge which ſhe pretends her ſelf to be: and thus you have
+ſharpned a Knife to cut your Mothers throat.</p>
+            <p>You pretend <hi>pag.</hi> 14. and ſay, <hi>that the ſecond
+Reaſon that is urged for ſole Scripture being a guide, is</hi> 2
+<hi>Tim</hi> 3.15. From a child thou haſt known the Holy Scriptures, which
+are able to make thee wiſe to ſalva<g ref="char:EOLhyphen"/>tion through faith, which is in
+Chriſt Jeſus. All Scripture is gi<g ref="char:EOLhyphen"/>ven by Inſpiration of God, and is 
+<pb n="36" facs="tcp:109129:26"/>profitable for doctrine, for reproof, for correction, for
+inſtruction in righteouſneſs: that the man of God may be perfect,
+throughly fur<g ref="char:EOLhyphen"/>niſhed to all good works.</p>
+            <p>
+               <hi>This Text</hi> (you ſay) <hi>proves not what is
+intended</hi> (viz.) <hi>that the Scri<g ref="char:EOLhyphen"/>pture alone was the way, the rule, and
+means appointed by God to judge and decide all doubts, &amp;c. your
+Reaſons</hi> pag. 15. <hi>are, Firſt, That though They might be profitable
+to ſuch a man as</hi> Timothy <hi>who had faith already, yet they could no
+way be profitable nor uſeful to one that had not faith, or did not believe
+them to be the Word of God; for Faith comes by hearing, not by
+reading.</hi>
+            </p>
+            <p>To which I anſwer, Firſt, If the Scriptures are not a Guide to
+them that believe not, why do the <hi>Rhe<g ref="char:EOLhyphen"/>miſts</hi> ſay that the reaſon
+why Jews and Hereticks do not finde Chriſt to be their King, Lord, Life, and
+Saviour, is, becauſe they did not <pb n="37" facs="tcp:109129:26"/>ſearch the Scriptures
+deeply. Sure<g ref="char:EOLhyphen"/>ly, you will not ſay, that Jews and Hereticks are Believers, and
+you ſay, they are no guide to Unbelie<g ref="char:EOLhyphen"/>vers; why then do the
+<hi>Rhemiſts</hi> ſay, Chriſt reprehended them for not fearching the
+Scriptures deeply? To what purpoſe then are Jews and Hereticks blamed for not
+ſearching the Scriptures deeply, if the Scri<g ref="char:EOLhyphen"/>ptures had been (as you ſay)
+no way profitable to them? but fur<g ref="char:EOLhyphen"/>ther, you ſay, they are not profitable to
+them that do not believe them to be the word of God. Suppoſe this were
+granted (which cannot be proved) doth it not follow that your Roman Church (by
+the ſame reaſon) is no way profitable, no way a Judge, nor an infallible
+Guide to any that do not believe her to be ſo: and by the ſame reaſon an
+Atheiſt may ſay All gods providences are no monitors to him, All his
+judge<g ref="char:EOLhyphen"/>ments are no examples to him, be<g ref="char:EOLhyphen"/>cauſe <pb n="38" facs="tcp:109129:27"/>cauſe he
+doth not believe there is a God: Is not this as good Logick, as to ſay the
+Scriptures are no way profitable to them that do not be<g ref="char:EOLhyphen"/>lieve them to be the
+Word of God.</p>
+            <p>You proceed to give another rea<g ref="char:EOLhyphen"/>ſon why this Scripture 2
+<hi>Tim.</hi> 3.15. is not a proof for what is pretend<g ref="char:EOLhyphen"/>ed, <hi>becauſe then
+if the Scriptures more ſolely ſufficient which</hi> Timothy <hi>knew from a
+child (they being but the Scriptures of the Old
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtam<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt) it would follow that Christ, and the Now Teſtament,
+and the Sacraments, and the Apoſtles, are at leaſt not
+ne<g ref="char:EOLhyphen"/>ceſſary.</hi>
+            </p>
+            <p>I anſwer, if by the Scriptures ſole ſufficiency, (you mean)
+that they are ſufficient to bring men to ſalva<g ref="char:EOLhyphen"/>tion without Faith,
+Repentance, and Obedience, then this is a Puppit of your own (as you Phraſe
+it) for where is there any Proteſtant of that mind; therefore you do but bark
+againſt the Moon.</p>
+            <pb n="39" facs="tcp:109129:27"/>
+            <p>But we ſay they are ſolely ſuffi<g ref="char:EOLhyphen"/>cient to direct us to
+thoſe ways by which we may obtain ſalvation. But then (ſay you) <hi>What
+needed Chriſt and the Apostles, and the New Teſta<g ref="char:EOLhyphen"/>ment, if the
+Scriptures</hi> Timothy <hi>had learned (which were thoſe of the Old
+Teſtament) were ſufficient?</hi> But then I anſwer as before, if Chriſt
+and the Apoſtles were ſolely ſufficient, what need is there of your Pope
+and Council? So that by this Argument you either make Chriſt and his
+A<g ref="char:EOLhyphen"/>poſtles not ſolely ſufficient; or if they were, then what need this
+waſte of a General Council? But you may ſay, that a General Coun<g ref="char:EOLhyphen"/>cil was to
+direct people in ſucceed<g ref="char:EOLhyphen"/>ing Ages. So were the Scriptures much rather, for
+whatever was written aforetime was written for our Learning, upon whom the ends
+of the World are come.</p>
+            <p>In the laſt place, you ſay <hi>pag.</hi> 15. <hi>The word</hi>
+All <hi>Scripture muſt either ſigni<g ref="char:EOLhyphen"/>fie <pb n="40" facs="tcp:109129:28"/>every
+Scripture, as the Original word <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+ought to be rendred, or</hi> All <hi>Scriptures that ever were; or</hi> All
+<hi>Scriptures that were when this Text was written; or</hi> All <hi>that we
+now have. If it be to be underſtood of every Scripture (or any Scripture)
+then you ſay it doth prove too much, becauſe then all the Scriptures ſave
+one Book, are uſeleſs.</hi>
+            </p>
+            <p>Though what hath been ſaid doth ſufficiently anſwer this
+innumera<g ref="char:EOLhyphen"/>tion, and therefore I might be ex<g ref="char:EOLhyphen"/>cuſed from anſwering any
+farther: yet becauſe you intimate a farther proof of what you now urge, I
+ſhall therefore when I meet with it give a further Anſwer.</p>
+            <p>You come in the 16 <hi>page</hi> to tell your Reader, <hi>That you
+met with no Arguments for the ſole ſufficiency of Scripture among thoſe
+that were uſually urged, and therefore you reſolved to ſee what could be
+ſaid againſt this com<g ref="char:EOLhyphen"/>mon General opinion of all who oppoſe the Church
+of</hi> Rome, <hi>why the Scriptures <pb n="41" facs="tcp:109129:28"/>could not be this Rule
+and Judge.</hi>
+            </p>
+            <p>You ſay, <hi>you have not met with any Arguments to prove the
+ſole ſufficiency of Scripture to be our guide;</hi> but it was becauſe
+you did not make a deep &amp; diligent ſearch into them, which is the
+reaſon (as your <hi>Rhemiſts</hi> ſay) Hereticks never find the Truth.
+But why do you beguile your un<g ref="char:EOLhyphen"/>wary Reader with this word, <hi>(viz.) That the
+Scriptures are not a</hi> SOLE <hi>Guide?</hi> thereby to let him think that
+you allow them in ſome ſenſe to be a guide; when indeed your following
+Arguments do manifeſtly declare that you would not have them to be any guide
+at all.</p>
+            <p>Your firſt Reaſon why the Scri<g ref="char:EOLhyphen"/>ptures are not a Guide is,
+<hi>becauſe they do not anſwer the end,</hi> (viz.) <hi>the reconciling
+differences: for thoſe who pretend most to conſult the Scriptures, do
+moſt of all diſagree in matters of faith; and interpreting the
+Scriptures.</hi>
+            </p>
+            <pb n="42" facs="tcp:109129:29"/>
+            <p>To this I anſwer, Firſt, May not a Heathen or a Jew alledge
+the ſame Argument againſt Chriſtiani<g ref="char:EOLhyphen"/>ty it ſelf, and ſay that the
+Chriſtian Religion is no ſafe way to happi<g ref="char:EOLhyphen"/>neſs, becauſe of the
+differences that are among the Profeſſors of it?</p>
+            <p n="2">2 May it not be ſaid that the A<g ref="char:EOLhyphen"/>poſtles themſelves
+were no certain Guides, becauſe they had diviſions and contentions among
+them? and that they had, appears by the te<g ref="char:EOLhyphen"/>ſtimony of St. <hi>Paul</hi>
+himſelf, <hi>Rom</hi> 16.17. <hi>Mark them that cauſe diviſi<g ref="char:EOLhyphen"/>ons and
+offences contrary to the doctrine,</hi> &amp;c. And the ſame Apoſtle tells
+the <hi>Corinthians,</hi> 1 <hi>Cor.</hi> 3.3. and 1 <hi>Cor.</hi> 11.19.
+<hi>That there was among them en<g ref="char:EOLhyphen"/>vyings, ſtrife, and contention, ſome
+holding of</hi> Paul, <hi>and ſome of</hi> Apollo, <hi>ſome of</hi> Cephas.
+Nay, he further tells them, <hi>there must be Hereſies a<g ref="char:EOLhyphen"/>mong you, that they
+that are approved, might be made manifeſt.</hi>
+            </p>
+            <p n="3">3 May it not as well be ſaid of <pb n="43" facs="tcp:109129:29"/>the
+Church of the Jews (which, you ſay, were infallible) that they were no Guide,
+or at leaſt, no cer<g ref="char:EOLhyphen"/>tain Guide, becauſe there were dif<g ref="char:EOLhyphen"/>ferences and
+contentions among them, as there was between the <hi>Phariſees, Sadduces</hi>
+and <hi>Eſſavaus;</hi> it is ſaid that the <hi>Sadduces</hi> denied the
+Re<g ref="char:EOLhyphen"/>ſurrection, Angels, and Spirit: as you ſay the Scriptures are no Guide
+to true faith, becauſe men differ and and diſagree in matters of Faith:
+But,</p>
+            <p n="4">4 May you not as well ſay that Chriſt is not the Saviour
+of the World, and that he came not into the World to the end that the World
+might be ſaved, becauſe it doth not appear that all ſhall be ſa<g ref="char:EOLhyphen"/>ved:
+as, ſay the Scriptures are no Guide to end Controverſies, be<g ref="char:EOLhyphen"/>cauſe all
+Controverſies are not en<g ref="char:EOLhyphen"/>ded.</p>
+            <p n="5">5 May you not as well infer that the grace of God doth not
+teach <pb n="44" facs="tcp:109129:30"/>men to deny ungodlineſs, becauſe ſome turn the
+grace of God into wantonneſs: as ſay the Scriptures are no ſure Guide to
+faith and ſal<g ref="char:EOLhyphen"/>vation, becauſe many wreſt them to their own
+deſtruction?</p>
+            <p n="6">6 May you not as well ſay, that the Primitive Church were
+no in<g ref="char:EOLhyphen"/>fallible Guide to true faith, becauſe they had diſagreements and
+conten<g ref="char:EOLhyphen"/>tions among them: as the ſtrife between the Eaſtern and Weſtern
+Churches about the keeping of Ea<g ref="char:EOLhyphen"/>ſter, and they excommunicating one another?
+And the Queſtion of Re-baptizing bred the like differen<g ref="char:EOLhyphen"/>ces between the
+Biſhops of <hi>Rome,</hi> and the Weſtern Biſhops of one Party, and
+<hi>Cyprian, Dionyſius,</hi> and <hi>Fir<g ref="char:EOLhyphen"/>milianus,</hi> with, moſt of the
+Eaſtern Biſhops of the other Party, <hi>Euſeb. Hiſt. lib.</hi> 5.
+<hi>c.</hi> 21. <hi>lib.</hi> 7. <hi>c.</hi> 3. <hi>Cyp. Ep.</hi> 74, 75.
+<hi>Soc. lib.</hi> 6. <hi>c.</hi> 17. <hi>Soc. lib.</hi> 6. <hi>c.</hi> 21. I
+ſay, may not one more truly infer theſe were no Guides, <pb n="45" facs="tcp:109129:30"/>becauſe they had diſſentions and diviſions among them: as you
+may ſay the Scriptures are not a Guide, becauſe of the differences that are
+amongſt Proteſtants.</p>
+            <p n="7">7 And laſtly, May I not infer as well from the like
+Premiſes, be<g ref="char:EOLhyphen"/>cauſe there is and hath been diffe<g ref="char:EOLhyphen"/>rences among the
+now-pretended Catholicks, as I have already ſhewn, that therefore their
+Church is no in<g ref="char:EOLhyphen"/>fallible Guide: as you may ſay the men that conſult
+Scriptures do not agree among themſelves, therefore the Scriptures are not
+the Guide.</p>
+            <p>Your ſecond Reaſon followeth in the 17 <hi>pag.</hi> which is
+but the ſame in effect with the firſt, therefore the former Anſwer may
+ſuffice; onely you tell us a ſtory of an <hi>Arian,</hi> or, (as the
+<hi>Queſtion of Queſtions</hi> hath it) an <hi>Arian Cobler;</hi> how that
+if you were to diſpute with him about the Deity of Chriſt from
+<hi>Job.</hi> 10.30. <hi>I and my Father are one;</hi> by this Text 
+<pb n="46" facs="tcp:109129:31"/>(you ſay) you ſhould think you had proved the
+Queſtion. But then (you ſay) your <hi>Arian</hi> would com<g ref="char:EOLhyphen"/>pare this Text
+with <hi>john</hi> 17.21. where Chriſt prayeth to his Father, that his
+Diſciples might be all one thing, <hi>as thou (Father) are in me, and I in
+thee.</hi> But if you ſhould urge the <hi>Arian</hi> further, and tell him
+the Council of <hi>Nice</hi> gave the ſame Interpretation which you do: (you
+ſay) the <hi>Arian</hi> would anſwer as the Proteſtants generally do,
+that they have a worthy eſteem of Councils, as far as they agree with the
+Word of God; but where they diſagree, in that he muſt contradict them
+all.</p>
+            <p>To which I Anſwer, (ſetting a<g ref="char:EOLhyphen"/>ſide the contraverſie
+between the <hi>Arians</hi> and <hi>Athanaſians,</hi> as not com<g ref="char:EOLhyphen"/>ing within
+the verge of our preſent queſtion) that if the <hi>Arian</hi> Cobler had
+been as Orthodox in all his o<g ref="char:EOLhyphen"/>ther Opinions, as he is in his opini<g ref="char:EOLhyphen"/>on 
+<pb n="47" facs="tcp:109129:31"/>about the Holy Scriptures, and Councels <hi>(viz.)</hi> to
+think reverent<g ref="char:EOLhyphen"/>ly of Councels, and agree with them, as far as they agree with
+the World of Truth: I ſay, if this had been all this <hi>Arian</hi> Coblers
+Errour, I ſhould have judged him a better Chriſtian then a <hi>Roman</hi>
+Shoo-ma<g ref="char:EOLhyphen"/>ker, or the Catholick Collier, who could ſay no more for himſelf,
+be<g ref="char:EOLhyphen"/>ing tempted by the Devil at the point of death, what his faith was?
+Anſwered, I believe, and dye in the faith of Chriſts Church: Being again
+demanded what the Faith of Chriſts Church was? Anſwered, The faith that I
+believe in: See Apology Tranſlated by <hi>Staplet. p.</hi> 53.</p>
+            <p>But you ſay, <hi>That you can urge a<g ref="char:EOLhyphen"/>gainst an</hi> Arian
+<hi>the Authority of the Councel of</hi> Nice, <hi>and their Interpreta<g ref="char:EOLhyphen"/>tion of
+the Scripture, by which they In<g ref="char:EOLhyphen"/>fallibly decide the controverſie; And here
+you think you have a more certaine <pb n="48" facs="tcp:109129:32"/>guide and ground of your
+Faith then o<g ref="char:EOLhyphen"/>thers, becauſe they adhere to private ſpirits, and private
+judgements up on the Scriptures; whereas you adhere to general
+Councel.</hi>
+            </p>
+            <p>To which, I Anſwer, Firſt, Doe you think that General Councels
+did ſpeak and teach in more plain<g ref="char:EOLhyphen"/>neſs of Speech, and that they utter<g ref="char:EOLhyphen"/>ed
+words leſs ſubject to be wreſted by wrong interpretations, then the words
+of the Prophets and Apoſtles were, who ſpake as they were inſpi<g ref="char:EOLhyphen"/>red by
+the ſpirit of God.</p>
+            <p>Secondly, How do you know that you have the true ſenſe and
+meaning of the Councels determi<g ref="char:EOLhyphen"/>nations, ſince their Decrees are as lyable,
+if not more lyable to miſ-interpretations then the Holy Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <p>The reaſon of this queſtion is, be<g ref="char:EOLhyphen"/>cauſe you did not hear
+them your ſelf, and if you had heard them, you might have miſ-underſtood
+them, <pb n="49" facs="tcp:109129:32"/>but if you ſay you have read the Councels and ſo
+came to be inform<g ref="char:EOLhyphen"/>ed: I do further demand how you do believe by a Divine Faith,
+that you do not miſ-underſtand the Councels in what you read, and ſo
+collect a falſe ſenſe.</p>
+            <p>Thirdly, If you ſhall ſay you have a Prieſt to teach you the
+ſenſe of the Councels, by which you un<g ref="char:EOLhyphen"/>derſtand what Doctrines are
+Catho<g ref="char:EOLhyphen"/>lick, and what Expoſitions of Scrip<g ref="char:EOLhyphen"/>ture are true, and what are falſe
+then I demand.</p>
+            <p>Fourthly, How do you believe with a Divine Faith, that what this
+private Prieſt teacheth is according to the Infallible Doctrine of the
+Church, ſince he is a Man, and may err, and ſo teach his own private
+O<g ref="char:EOLhyphen"/>pinion, for the Infallible Doctrine of the Church.</p>
+            <p>Fifthly, Whether you may not be more ſubject to
+miſ-underſtand the Scriptures, either by the errour <pb n="50" facs="tcp:109129:33"/>of
+the Prieſt in Preaching, or the frailty of your underſtanding in hearing,
+then others are in the rea<g ref="char:EOLhyphen"/>ding of the Holy Scriptures: And if ſo, why
+ſhould you ſay the Scrip<g ref="char:EOLhyphen"/>tures are no guide, becauſe they may be
+miſ-interpreted? For ſhame forbear to blame the uſe of a thing becauſe
+of the abuſe of it: What if ſome are to blame, in that they have wreſted
+the Scriptures to ſerve their own intereſts; Are not you more to blame to
+wound theſe men through the ſides of the Scripture? What if (as one well
+obſerves) <hi>That ſome are blind, and miſs their way, and others are
+drunk, and stagger out of it: Muſt we all conſpire to wiſh the Sun out of
+the Firmament, that we might follow a Will with a Wiſp?</hi> And yet this is
+your kind of reaſoning, that be<g ref="char:EOLhyphen"/>cauſe ſome are perverſe and fro<g ref="char:EOLhyphen"/>ward,
+and others are full of dark<g ref="char:EOLhyphen"/>neſs, prejudice, and corrupt affecti<g ref="char:EOLhyphen"/>ons, by
+which they cannot perfectly <pb n="51" facs="tcp:109129:33"/>and infallibly judge of every
+truth, that is contained in the Scripture; therefore they muſt throw away the
+bleſſed word of God from being their rule and guide.</p>
+            <p>You proceed in <hi>p.</hi> 18. and tell us, <hi>That the third
+Reaſon which you thought was forcible, was, that thoſe who are thus far for
+ſole Scripture, do not ſay that one, or any particular number of the Books
+of Scripture, but all Scriptures written by inſpiration of God do, being
+joyned together make up this Rule and Judge; Hence</hi> (you ſay) <hi>you
+concluded that if any of theſe Books were lost, this Rule was not perfect;
+Now that many of theſe Books were loſt</hi> (you ſay) <hi>you pro<g ref="char:EOLhyphen"/>ved
+from thoſe that remain,</hi> Num. 21.14. <hi>The Book of the Wars of the Lord
+(and this</hi> (you ſay) <hi>is loſt.) It is ſaid of</hi> Solomon, 1
+King. 4.3, 2. <hi>that he ſpoke</hi> 3000 <hi>Proverbs, and his Songs
+were</hi> 1000 <hi>and</hi> 5; <hi>You conceive</hi> (you ſay) <hi>that upon
+a juſt reckoning ſome of theſe will be wanting: We finde named,</hi> 
+               <pb n="52" facs="tcp:109129:34"/>2 Chron. 9.29. <hi>The Book of</hi> Na<g ref="char:EOLhyphen"/>than <hi>the
+Prophet, the Propheſie of</hi> Ahi<g ref="char:EOLhyphen"/>jah, <hi>and the Viſions of</hi> Iddo;
+(<hi>theſe</hi> (you ſay) <hi>are loſt) as alſo thoſe named,</hi> 1
+Chron. 29.29. <hi>The Book of</hi> Sa<g ref="char:EOLhyphen"/>muel, <hi>the Book of</hi> Nathan,
+<hi>the Book of</hi> Goda, <hi>and it is clear from</hi> Mat. 27.9. <hi>That
+part of</hi> Jeremy <hi>is loſt; So alſo from</hi> Mat. 2.23. <hi>Where it
+was fore<g ref="char:EOLhyphen"/>told that Christ ſhould be called a</hi> Na<g ref="char:EOLhyphen"/>zaren; <hi>and</hi> 1
+Cor. 5.9. <hi>Tells us that the Epistle which our Canon calls St.</hi> Pauls
+<hi>Firſt Epiſtle was not truly his firſt; for there he ſayeth, I wrote
+to you in an Epistle, not to keep company with Forni<g ref="char:EOLhyphen"/>catours: St.</hi> Paul
+<hi>alſo wrote an Epiſtle from</hi> Laodicea, <hi>and yet</hi> (you ſay)
+<hi>you do not finde this Epiſtle.</hi>
+            </p>
+            <p>In Anſwer hereunto I cannot but take notice that you ſay you
+THOUGHT this Anſwer was for<g ref="char:EOLhyphen"/>cible; but where was your Mother that ſhe did
+not inable you to ſay, you were SURE it was forcible.</p>
+            <pb n="53" facs="tcp:109129:34"/>
+            <p>But let us ſee wherein this force lyeth; you ſay,
+<hi>Proteſtants do not be<g ref="char:EOLhyphen"/>lieve a certain number of Books to be their guide;
+but all the Scriptures written by Inſpiration from God, make up this Rule and
+Guide; and many of theſe Books are loſt, therefore this Rule is not
+perfect.</hi>
+            </p>
+            <p>I Anſwer, Firſt, That the Law of the Lord is perfect, and
+every word of God is pure; and therefore there can be no imperfections in the
+word of God: but</p>
+            <p>Secondly, How doth it appear that any of thoſe Books which (you
+ſay) were loſt, had a Divine Image and Superſcription upon them; or that
+they that did write them we<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+inſpired by the Holy Ghoſt in the writing of thoſe particular Books? For
+it is very poſſible that they wrote many things upon particular
+occaſions, as <hi>Hezekiah</hi> wrote to <hi>Ephraim;</hi> and that
+ſometimes their writings were of no more inſpira<g ref="char:EOLhyphen"/>tion <pb n="54" facs="tcp:109129:35"/>from Heaven, then <hi>Davids</hi> Let<g ref="char:EOLhyphen"/>ters were that he ſent to
+<hi>Joab</hi> by <hi>Uriah,</hi> or then <hi>Peters</hi> practiſe for which
+<hi>Paul</hi> withſtood him to the face: But</p>
+            <p>Thirdly, What Infallible reaſon have you to prove that theſe
+ſay<g ref="char:EOLhyphen"/>ings recited out of theſe Scriptures may not refer to the Books of
+<hi>Samuel</hi> and the <hi>Kings</hi> which we have ex<g ref="char:EOLhyphen"/>tant, rather then to
+any Books that are loſt.</p>
+            <p>Fourthly, How do you know that thoſe writings (however the
+Pen-men were inſpired) were in<g ref="char:EOLhyphen"/>tended by God for the perpetual uſe of his
+Church in all Ages.</p>
+            <p>Fifthly, How do you Infallibly know, that all the Canons or your
+Church, even of thoſe which (you ſay) are neceſſary to Salvation are
+preſerved, and that ſome very ma<g ref="char:EOLhyphen"/>terial things are not loſt.</p>
+            <p>Sixthly, If you ſay there is none loſt, then whether you do
+not make <pb n="55" facs="tcp:109129:35"/>God in his wiſe providence more carefull to
+preſerve intire and un<g ref="char:EOLhyphen"/>maimed the Canons of your Coun<g ref="char:EOLhyphen"/>cels, then he hath been
+to preſerve the Writings of his Holy Prophets, and Apoſtles; And if you
+ſuppoſe any of the Decrees of your Councels hath been loſt or maimed,
+then how do you know Infallibly, whether ſome that are loſt, are not as
+material as thoſe you have? Thus the edge of your ſword is turned
+a<g ref="char:EOLhyphen"/>gainſt your ſelf: But</p>
+            <p>Seventhly, If any of the Books of the Old Teſtament were loſt,
+that were by God intended for the perpetual uſe of that Church to whom his
+Oracles were committed, how then can you ſay that the Church of the Old
+Teſtament was infallible, ſince ſhe failed in that truſt that was
+committed to her, <hi>(viz.)</hi> the keeping of the Scripture? And if this was
+not a failing in her, in that ſhe loſt part of the Scrip<g ref="char:EOLhyphen"/>tures, 
+<pb n="56" facs="tcp:109129:36"/>then ſhe had not failed, if ſhe had loſt all; and
+then it follow<g ref="char:EOLhyphen"/>eth, that the Scriptures are ſo far from being a ſole Guide,
+that they are no guide at all, for if they are a guide, and a directer in any
+ſenſe, or if they are of any divine uſe, then it muſt be an errour
+either of ignorance, or wilfullneſſe, to ſuffer them to be loſt or
+maimed.</p>
+            <p>Eighthly, <hi>Whereas you ſay, that the Epiſtle of St.</hi>
+Paul <hi>which your Canon calls the firſt to the</hi> Corinthians <hi>was
+not</hi> TRULY <hi>his firſt:</hi> I Anſwer then, your Canon doth falſely
+call it the firſt, and then how ſhall we believe when your Canons are true?
+You had beſt tell your Mother ſhe lyes as ſoon as you can ſpeak, and
+then ſhew a reaſon for it, by telling her <hi>That St.</hi> Paul
+<hi>ſaith, he writ to the</hi> Co<g ref="char:EOLhyphen"/>rinthians <hi>an Epiſtle before:</hi>
+Ergo, <hi>there is an Epiſtle before that which your Canon calls the
+firſt:</hi> But <hi>Chryſoſtome</hi> underſtands it of the words going 
+<pb n="57" facs="tcp:109129:36"/>before, wherein he had charged them to deliver the
+inceſtious per<g ref="char:EOLhyphen"/>ſon to Satan, and to purge out the old leaven.</p>
+            <p>And that you may ſee how little cauſe you have to enveigh
+againſt Proteſtants for their private doubt<g ref="char:EOLhyphen"/>full, and uncertain expounding
+of Scriptures; Let me give you the expoſition of a whole Colledge of
+Catholicks upon this very Text un<g ref="char:EOLhyphen"/>der debate: <hi>Either</hi> (ſay they)
+<hi>St.</hi> Paul <hi>means this Epistle in the words be<g ref="char:EOLhyphen"/>fore, or ſome other:
+See the Rhemiſts marginall Note upon the place.</hi> Surely this is
+infallible indeed; it is either this or ſome other: At this rate of
+Infallibility any private ſpirit ſhall interpret Scriptures all day long,
+<hi>(viz.)</hi> either this is the ſenſe, or ſome other.</p>
+            <p>Ninthly, and Laſtly, If any Ca<g ref="char:EOLhyphen"/>nonical Scripture be loſt will
+not this redound to the prejudice of the Romane Church: Since they ac<g ref="char:EOLhyphen"/>knowledge
+<pb n="58" facs="tcp:109129:37"/>that they only are the Church, and that the Church is the
+keeper of Divine Truths, and that they have been the conſervatours of the
+Scriptures to poſterity. Now if any Books be loſt (as you ſay there is)
+how have they infallibly kept what (they ſay) was long ſince committed to
+their truſt? Thus you deſperatly venture to wound the reputation of the
+Scriptures, though you make the Sword, by which you do it, to paſs through
+the reins of your darling infallibility.</p>
+            <p>In <hi>pag.</hi> 19. you come to a Fourth Reaſon, <hi>Why the
+Scriptures cannot be a guide to conveigh Divine and Infal<g ref="char:EOLhyphen"/>lible faith to all;
+and that is, becauſe they cannot be underſtood by all, nay,</hi> (you
+ſay) <hi>they are very ſubject to be miſ-un<g ref="char:EOLhyphen"/>derſtood, if we will
+believe the</hi> 2 Pet. 3.16. <hi>Where ſpeaking of St.</hi> Pauls
+<hi>Epistles,</hi> (he ſaith) <hi>there were ſome things hard to be
+underſtood, which they that are unlearned, and unſtable wreſt as 
+<pb n="59" facs="tcp:109129:37"/>they do alſo the other Scriptures to their own
+deſtruction. It is in vain</hi> (you ſay) <hi>to urge that the Scriptures
+are plain and eaſie in fundamentals, and in what concerns ſalvation; for we
+have here a plain teſtimony that they are wreſted to their own
+destru<g ref="char:EOLhyphen"/>ction; therefore they cannot be a ſafe rule, nor any rule at all to
+the igno<g ref="char:EOLhyphen"/>rant &amp;c.</hi>
+            </p>
+            <p>Though this Argument be an<g ref="char:EOLhyphen"/>ſwered already, yet I anſwer
+fur<g ref="char:EOLhyphen"/>ther, in the words of a learned man, <hi>That if the Scriptures are ſo
+hard to be underſtood, and the Pope can infallibly interpret them, what a
+madneſs and childiſhneſs is it for the Catholicks them<g ref="char:EOLhyphen"/>ſelves to lie
+ſwaggering and contending with one another, before all the world with
+fallible mediums, about the ſenſe of Scripture, when they have one among
+them that infallibly can interpret them, and that with ſuch Authority, as all
+men are bound to reſt in, and contend no further?</hi> And the further
+miſchief <pb n="60" facs="tcp:109129:38"/>of it is, that of all the reſt, this man is
+always ſilent as to expoſition of Scripture, who alone is able to part the
+fray. Now methinks this ar<g ref="char:EOLhyphen"/>gues a great want of good nature, that the Pope can
+ſee his Children ſo fiercely wrangle about the ſenſe of Scripture, and
+yet will not give out the infallible meaning of every place, and ſo ſtint
+the ſtrife among them, ſeeing he can do it if he will.</p>
+            <p>But again, how doth it follow, that becauſe the Scriptures are
+hard to be underſtood, and are by ſome wreſted to their damnation, that
+therefore they are either no Guides at all, or at the beſt but uncertain
+ones. Pray let me ask you a que<g ref="char:EOLhyphen"/>ſtion or two, May you not as well ſay that
+Chriſt was no infallible Guide, becauſe many of his words were wreſted by
+the Jews to their deſtruction? as that of his deſtroy<g ref="char:EOLhyphen"/>ing the Temple and
+building it in three days? <hi>Job.</hi> 2.19. And did not <pb n="61" facs="tcp:109129:38"/>they wreſt his words to their own deſtruction, when Chriſt
+ſaid, <hi>Mat.</hi> 26.64, 65. that he was the Son of God, and they thereupon
+ſaid he had ſpoken blaſphemy, and there<g ref="char:EOLhyphen"/>fore needed no other witneſs
+againſt him: and likewiſe they ſaid, he blaſphemed when he told the man
+that was ſick of the Palſie, that his ſins were forgiven. So that
+ſpeech of Chriſt was hard to be underſtood to learned <hi>Nicodemus,
+Job.</hi> 3. <hi>Except a man be born again he cannot enter into the Kingdom of
+God.</hi> Doth it follow from hence that Chriſt was not an infallible
+Guide?</p>
+            <p>Again are the Canons and De<g ref="char:EOLhyphen"/>crees of General Councils more
+ſecure from being miſinterpreted then the Scriptures; or do they uſe more
+plainneſs of ſpeech then the Spirit of God uſed in the Scriptures, or is
+nothing that they determine of neceſſity to ſalvation? If ſo, then why
+may not their words <pb n="62" facs="tcp:109129:39"/>be wreſted to the deſtruction of
+thoſe that are unlearned or unſta<g ref="char:EOLhyphen"/>ble, as well (or rather as ill) as the
+Scriptures. And if ſo, I demand whether this be not as good, nay a better
+Argument againſt them<g ref="char:EOLhyphen"/>ſelves, <hi>(viz.)</hi> ſome wreſt the judg<g ref="char:EOLhyphen"/>ment
+and definitions of the Church to their deſtruction; <hi>Ergo,</hi> the Church
+is not an infallible Guide to all, nor indeed any Guide to the ignorant, which
+are the greateſt part of mankind? Is not this the ſame (if not a better)
+argument, then to ſay, the unlearned wreſt the Scriptures to their own
+deſtruction; <hi>Ergo,</hi> the Scriptures are not an infal<g ref="char:EOLhyphen"/>lible Guide to
+all, nor any Guide at all to the ignorant.</p>
+            <p>I come now to conſider your 5 Reaſon, which is, <hi>That if
+the Scri<g ref="char:EOLhyphen"/>ptures be a Guide, Rule, and Judge, it must onely be meant of their
+true Ori<g ref="char:EOLhyphen"/>ginal and Authentick Writings, and not of corrupted Copies; and
+there<g ref="char:EOLhyphen"/>fore <pb n="63" facs="tcp:109129:39"/>if we have not the true Originals, our rule is
+imperfect.</hi> And again <hi>pag.</hi> 20. you ſay, <hi>If we had the
+Origi<g ref="char:EOLhyphen"/>nals, it would be hard to find a man that doth ſo infallibly
+underſtand the Originals, as to give us a true tranſla<g ref="char:EOLhyphen"/>tion.</hi> This you
+endeavour to prove out of ſeveral Proteſtant Writers, <hi>pag.</hi> 20.
+<hi>&amp;</hi> 21. <hi>(viz.) That we have not the Originals themſelves, nor
+un<g ref="char:EOLhyphen"/>doubted Tranſlations, and therefore the Scriptures are not an infallible
+Guide.</hi>
+            </p>
+            <p>To which I anſwer, That though what hath been ſpoken already
+might ſuffice to this Argument, yet to make full meaſure running over, let
+me add, that this very Objection lieth with the like force againſt Ge<g ref="char:EOLhyphen"/>neral
+Councils. For, firſt, how do you know with a divine certitude, that you have
+the true Original and Authentick Writings, wherein thoſe Decrees were
+contained? Se<g ref="char:EOLhyphen"/>condly, How do you know with a <pb n="64" facs="tcp:109129:40"/>divine
+certitude, whether the Scribe that committed them to Writing was an honeſt
+man or not? Third<g ref="char:EOLhyphen"/>ly, How do you know with a di<g ref="char:EOLhyphen"/>vine certitude, that theſe
+Councils, Decrees, and Canons, are truly and infallibly tranſlated, ſince
+they were written in a Language that I know not. If you ſay I have them
+tranſlated by private Doctors, then I query if private Doctors are
+infal<g ref="char:EOLhyphen"/>lible? If they are, what need is there of a Pope, or a General Coun<g ref="char:EOLhyphen"/>cil?
+If they are fallible, why may they not fail, when they tell me they have
+faithfully interpreted and tranſlated the ſenſe of Coun<g ref="char:EOLhyphen"/>cils and Fathers?
+But if they being private perſons can give the true ſenſe of Councils and
+Fathers, why may not men of the ſame ability for Learning and Piety give as
+perfect a Tranſlation, and as infallible an Interpretation of the Scriptures
+of the Apoſtles and Prophets? So that <pb n="65" facs="tcp:109129:40"/>the Argument cuts
+as much with one edge as the other. <hi>If the Scri<g ref="char:EOLhyphen"/>ptures be guide and rule,
+it muſt be meant of Authentical and Original Writings, or of infallible
+Tranſlations of them into ſeveral Languages, &amp;c.</hi> ſay you. In
+like manner I ſay, if the Decrees of General Councils are infallible, it
+muſt be underſtood of the Origi<g ref="char:EOLhyphen"/>nal and authentick writings where<g ref="char:EOLhyphen"/>in
+thoſe Decrees are contained, or of infallible Tranſlations of them into
+ſeveral Languages, ſince they were not given out in a Language that the
+Common people under<g ref="char:EOLhyphen"/>ſtand. Now none will ſwear (to uſe your own words,
+<hi>pag.</hi> 20.) that theſe are the Originals of the De<g ref="char:EOLhyphen"/>crees of thoſe
+Councils, ſome of them being more then a thouſand years old. Neither will
+any ſwear that the Tranſlations of theſe De<g ref="char:EOLhyphen"/>crees agree with their
+Originals: <hi>Ergo,</hi> The Decrees and Determina<g ref="char:EOLhyphen"/>tions of Councils cannot be
+an un<g ref="char:EOLhyphen"/>queſtionable <pb n="66" facs="tcp:109129:41" rendition="simple:additions"/>and infallible Guide to true
+faith.</p>
+            <p>Thus you make people believe that if they come to your Church,
+they ſhall have every thing certain; but I do demand (if any ſhould fol<g ref="char:EOLhyphen"/>low
+your advice) how they ſhall be thus aſſured, ſince your Church hath
+been ſo palpably negligent, as to ſuffer whole Books to be loſt, and to
+ſuffer the Originals of thoſe that remain, to be corrupted, and alſo to
+ſuffer infinite variety of reading to come into them; by which you ſay,
+<hi>It cannot be diſcerned infallibly which is the true reading, and which is
+the falſe.</hi> And whereas you ſay, <hi>That we are ſo far from having
+St.</hi> Ma<g ref="char:EOLhyphen"/>thews <hi>Original, that we know not what Language it was writ in;
+or whether he who tranſtated it into Greek was an honeſt man or
+not.</hi>
+            </p>
+            <p>I anſwer, If your Church were (as you pretend) the ſole Keeper
+of the Scriptures, they are worthy <pb n="67" facs="tcp:109129:41"/>to die (as
+<hi>David</hi> ſaid of <hi>Abner</hi>) be<g ref="char:EOLhyphen"/>cauſe they kept their Maſter no
+better. Are they the Church to which no unfaithfulneſs can have acceſs,
+when they have loſt the Original of St. <hi>Mathews</hi> Goſpel? Theſe
+are worſe then the unprofita<g ref="char:EOLhyphen"/>ble Servant; for in the day of ac<g ref="char:EOLhyphen"/>compt, though
+he did not improve his Talent, yet he did not loſe it; but could ſay to his
+Maſter, take that which is thine own. But you that have been entruſted with
+the heavenly treaſure of ſacred Wri<g ref="char:EOLhyphen"/>tings, it ſeems, cannot acquit your
+ſelves at this rate; for you have loſt the Original, and cannot tell
+whe<g ref="char:EOLhyphen"/>ther that Tranſlation that you have was done by an honeſt Man or a
+Knave.</p>
+            <p>But further, If this be true, what becomes of that Text which you
+cite, as the firſt-born of your ſtrength, <hi>Mat.</hi> 16.18. upon which
+you found your Churches infallibili<g ref="char:EOLhyphen"/>ty: <pb n="68" facs="tcp:109129:42"/>for if one ask you,
+how you prove the Church infallible? you ſay by that Text, <hi>Upon this Rock
+I will build my Church, and the gates of hell ſhall not prevail againſt
+it.</hi> But how do you prove it from this Text? if (as you ſay) the Original
+is loſt, and you cannot tell whether he that tranſlated it into the Greek
+was an honeſt man or no?</p>
+            <p>You come now, <hi>pag.</hi> 22. to a ſixth Reaſon, which is
+but the ſame in effect with the former, <hi>(viz.) That whatſoever is a
+ſufficient rule, muſt be plain and clear in all neceſſary points: the
+Scriptures</hi> (you ſay) <hi>are not plain and clear in all neceſſary
+points; there<g ref="char:EOLhyphen"/>fore &amp;c.</hi> This is the ſum of your Argument, and for
+this you give divers inſtances of things neceſſary to ſalvation, that
+are not ſet down in Scripture, The firſt is, in <hi>pag.</hi> 22.23. That
+<hi>it is not ſet down in Scri<g ref="char:EOLhyphen"/>pture what a Sacrament is, and how ma<g ref="char:EOLhyphen"/>ny there
+be, or whether there be any or no?</hi>
+            </p>
+            <pb n="69" facs="tcp:109129:42"/>
+            <p>To this I anſwer, That you ſtrive about words; for it is not
+neceſſary to ſalvation to believe that thoſe inſtitutions ſhould be
+called Sacra<g ref="char:EOLhyphen"/>ments, which are uſually ſo called; and if it were, then it
+would be ne<g ref="char:EOLhyphen"/>ceſſary that we ſhould know what and how many Inſtitutions
+ſhould be ſo denominated: but it ſufficeth that thoſe Inſtitutions
+which we call Sacraments, are plainly ſet down in Scripture, together with
+the perſons who ſhould obſerve them, and the manner how they ſhould be
+obſerved.</p>
+            <p>You come to a ſecond thing ne<g ref="char:EOLhyphen"/>ceſſary to be believed that is
+not in Scripture; namely, <hi>That all the Books of the Holy Scriptures be the
+word of God.</hi> This ſay is not abſolutely neceſſary to ſalvation;
+for it may be poſſible for one to believe all the matter of the Bible to be
+the Truth of God, and thereupon be ſaved, who may yet doubt, whether every 
+<pb n="70" facs="tcp:109129:43"/>one of the Pen-men did write by in<g ref="char:EOLhyphen"/>ſpiration. And again,
+When it is ſaid and believed that all the mate<g ref="char:EOLhyphen"/>rial Objects of Faith, and
+thoſe di<g ref="char:EOLhyphen"/>vine Verities which Chriſt revealed to his Apoſtles, and they to
+the Churches, are laid down in Scri<g ref="char:EOLhyphen"/>pture. It is manifeſt that the
+Scri<g ref="char:EOLhyphen"/>ptures themſelves are excepted, they being not received as the ma<g ref="char:EOLhyphen"/>terial
+objects of our faith, but as the means of conveying them unto us: and if a man
+did believe the Do<g ref="char:EOLhyphen"/>ctrine of ſalvation contained in the Scripture, it
+ſhould not hinder his ſalvation, though he knew not whe<g ref="char:EOLhyphen"/>ther there was any
+Scripture or no?</p>
+            <p>Again, Many of thoſe whom you Canonize, did not allow of ſome
+part of the Scriptures; and many whole Churches differed about the Authority of
+ſome Books; which Churches muſt all be damned, if the believing thoſe
+Books had been ne<g ref="char:EOLhyphen"/>ceſſary to ſalvation.</p>
+            <pb n="71" facs="tcp:109129:43"/>
+            <p>You proceed and ſay in the third place, <hi>That it is
+neceſſary to ſalvation to believe the Scriptures to be the Word of God,
+but this</hi> (you ſay) <hi>is not plain<g ref="char:EOLhyphen"/>ly ſet down in Scripture.</hi>
+            </p>
+            <p>I anſwer as before, This belief cannot be neceſſary, where
+the Scri<g ref="char:EOLhyphen"/>ptures are not propoſed; for God doth not require men to believe
+upon pain of Damnation, when he hath not given means in order therunto.</p>
+            <p>But 2. Whoever ſhall conſult the excellent precepts, the
+glorious promiſes, together with that great Spirit of Holineſs and
+Self-denial that is contained in the Scriptures, muſt needs ſay, that they
+have the image and ſuperſcription of heaven upon them; and from thence be
+as certainly perſwaded that God was the Author of them, as if it had been
+written with the beam of the Sun, that ſo many Books are the Word of God:
+nay, and more certain, be<g ref="char:EOLhyphen"/>cauſe <pb n="72" facs="tcp:109129:44"/>
+               <hi>That</hi> one
+ſentence might ſoo<g ref="char:EOLhyphen"/>ner have been expunged, or defaced out of the Scriptures
+then that Spirit of Light and Truth which breaths in the faces and
+conſciences of men, from all the quarters of them.</p>
+            <p>Your other inſtances that follow, are ſuch as we have either
+taken notice of already, or elſe they are ſuch that are not neceſſary
+to ſalva<g ref="char:EOLhyphen"/>tion, and therefore are impertinent<g ref="char:EOLhyphen"/>ly alledged to weaken the
+guidance and conduct of the Scripture in or<g ref="char:EOLhyphen"/>der to that bleſſed end. But
+ſince you are ſo able to lay ſtumbling blocks in the way of the
+Scriptures, that thereby men might ſtumble and fall, let me ſee if you are
+as able to remove ſome ſtumbling blocks that lieth in the way to your
+infallible Church.</p>
+            <p>Firſt, Is not the Sacrament of Pennance, as your Church
+teach<g ref="char:EOLhyphen"/>eth, neceſſary to ſalvation?</p>
+            <p>But ſecondly, How can you be <pb n="73" facs="tcp:109129:44"/>infallible that
+this Sacrament is ad<g ref="char:EOLhyphen"/>miniſtred by a true Prieſt? for if it were not done by
+a true Prieſt, then it is ineffectual, and ſo you muſt die without
+abſolution, or elſe you muſt grant that others be<g ref="char:EOLhyphen"/>ſide a lawful
+Prieſt may remit ſins. But if none can do it but a lawful Prieſt:</p>
+            <p>Then Thirdly, How ſhall you be infallible of thoſe things that
+are neceſſary to make a true Prieſt? as firſt, that he was lawfully
+baptized with due matter and due form of words; and that the Biſhop which
+Ordained him a Prieſt, did Ordain him compleatly, with due matter, form, and
+intention? You muſt know that the Biſhop that made him a Prieſt, was a
+Prieſt himſelf. But ſuppoſe theſe doubts were aſſayled, which
+cannot be; and that you are certain, he that is to ab<g ref="char:EOLhyphen"/>ſolve you were a true
+Prieſt; yet ſtill the doubt will remain, whether <pb n="74" facs="tcp:109129:45"/>he
+will do you that good he can? and whether he will pronounce the words of
+abſolution with an intent to abſolve you? For perhaps he may bear you
+ſome ſecret grudge, and project your damnation for a revenge. He may, for
+ought you know, be a ſecret Jew, or Anti-Trinitarian, and ſo far from
+in<g ref="char:EOLhyphen"/>tending your forgiveneſs of ſins, and ſalvation by this Sacrament,
+that in his heart he laughs at all theſe things, and thinks ſin nothing,
+and ſalvation but a word. All theſe doubts muſt be clearly reſolved
+be<g ref="char:EOLhyphen"/>fore you can (upon your Roman Catholick grounds) aſſure your ſelf that
+this man that abſolveth you is a true Prieſt, and that he giveth you true
+and effectual abſolution; or elſe when you have done all this for your
+ſalvation, you may have the ill luck to be damned; which makes ſalvation a
+matter of chance and not of choice; and if ſo, what are you 
+<pb n="75" facs="tcp:109129:45"/>the nearer for being a member of a pretended infallible
+Church. Much more to this purpoſe might be ur<g ref="char:EOLhyphen"/>ged, and yet you cry out, that
+the Salvation of Proteſtants relies upon fallible and uncertain grounds.
+Whoever would be further ſatis<g ref="char:EOLhyphen"/>fied in this matter, I ſhall deſire him to
+read that learned Treatiſe of Mr. <hi>Chillingworth,</hi> Intituled, <hi>The
+Religion of Protestants, a ſafe way to Salvation.</hi> Your next inſtance
+is, <hi>The Contradi<g ref="char:EOLhyphen"/>ction, that ſeems to appear in Scriptures, which</hi>
+(you ſay) <hi>argues them to ſeem untrue,</hi> and for this you inſtance,
+2 <hi>King.</hi> 8.26. compared with 2 <hi>Chron.</hi> 22.5. and <hi>Mat.</hi>
+1.17. com<g ref="char:EOLhyphen"/>pared with <hi>Luke</hi> 3.35, 36. <hi>which places</hi> (you ſay)
+<hi>ſeem to contradict each other.</hi>
+            </p>
+            <p>I Anſwer Firſt, If they are but ſeeming contradictions, then
+they do not weaken the reputation of Scriptures.</p>
+            <pb n="76" facs="tcp:109129:46"/>
+            <p>Secondly, The reſolving thoſe ſeeming contradictions are not
+ne<g ref="char:EOLhyphen"/>ceſſary to ſalvation, becauſe it is not neceſſary to ſalvation
+to know when <hi>Ahazia</hi> began to Reign, not whether there were 41 or 42
+Ge<g ref="char:EOLhyphen"/>nerations between <hi>David</hi> and <hi>Chriſt;</hi> and therefore
+thoſe Objections weaken not the guidance of the Scriptures in all things
+neceſſary to ſalvation, which is the thing in que<g ref="char:EOLhyphen"/>ſtion.</p>
+            <p>But laſtly, why doth your Church put her candle under a
+Buſhel, why doth not ſhe ſet forth an infallible tranſlation of the
+Bible? For it may be thoſe ſeeming contradicti<g ref="char:EOLhyphen"/>ons in thoſe fore-cited
+places was occaſioned by the errour of the Scribe, or the errour of the
+Tran<g ref="char:EOLhyphen"/>ſlatour. But hath not greater in<g ref="char:EOLhyphen"/>conveniences attended the keeping the
+Canons of your Church? If they have not, how comes it to paſs that there is
+contradictions in Scrip<g ref="char:EOLhyphen"/>ture, <pb n="77" facs="tcp:109129:46"/>and none in Councils? It
+ſeems your Church hath faithfully preſerved all things uncorrupted for the
+benefit of poſterity, but the word of God. You proceed, <hi>pag.</hi> 25. to
+a ſeventh Reaſon, Why <hi>the Scriptures are not a ſole guide, becauſe
+then they would have been ſo in the Apo<g ref="char:EOLhyphen"/>ſtles dayes; and if they had, then
+the Authority of the Apoſtles</hi> (you ſay) <hi>muſt have ceaſed ſo
+ſoon as they had made an end of writing?</hi>
+            </p>
+            <p>I Anſwer, That it doth not follow that the opinion of the
+Scriptures being the ſole guide, ſhould exclude the Apoſtles from being
+guides when they were living.</p>
+            <p>May not a Man as well ſay, that <hi>Peters</hi> being the ſole
+head of the Church (as you pretend) did ex<g ref="char:EOLhyphen"/>clude Chriſt (that gave him his
+Authority) from being head while he was yet living on the Earth; and that a man
+that directs and ſolely guides you by Epiſtles, how to ne<g ref="char:EOLhyphen"/>gotiate 
+<pb n="78" facs="tcp:109129:47"/>your affairs, ſhould thereby ceaſe to be a guide if he
+were pre<g ref="char:EOLhyphen"/>ſent with you, or that he ſhould thereby be rendred unable to
+re<g ref="char:EOLhyphen"/>ſolve any doubtfull word in that di<g ref="char:EOLhyphen"/>rection. No more doth it follow, that
+the Scriptures being held to be the ſole guide, ſhould exclude the Pen-men
+from either being guides, or giving an infallible interpreta<g ref="char:EOLhyphen"/>tion of their own
+words, while they were yet alive. But what is all this to the Romane Church
+being an in<g ref="char:EOLhyphen"/>fallible guide? The Apoſtles might be guides to the Churches
+while they lived, both by their words and writings; But ſince they are
+de<g ref="char:EOLhyphen"/>ceaſed, we know no furer guide then their words, to which to do well to
+take heed, as to a light that ſhineth in a dark place.</p>
+            <p>And for thoſe other things that you ſay follow in probability
+upon the Scriptures being our guide; I ſhall ſay nothing to them, becauſe
+<pb n="79" facs="tcp:109129:47"/>they are but probable conjectures of your own brain.</p>
+            <p>Your laſt reaſon which you urge, why the Scripture is not a
+ſole Judge, is, <hi>Becauſe</hi> (you ſay) <hi>in effect it is to make it
+no judge at all, but to make every man and woman to be their own judge, to take
+upon them to read and understand them.</hi>
+            </p>
+            <p>May you not as well ſay, that your Church is not the judge,
+be<g ref="char:EOLhyphen"/>cauſe every man and woman muſt judge for themſelves, whether ſhe be
+ſo or no, before they joyne in Communion with her: As ſay the Scriptures
+are not ſo, becauſe a man muſt judge for himſelf, whether he rightly
+underſtand it or no?</p>
+            <p>Is there not as great a controver<g ref="char:EOLhyphen"/>ſie in the World, which is the
+true Church among all the pretenders to it, as there is, which is the right
+ſenſe of Scriptures among the various readings and interpretations
+there<g ref="char:EOLhyphen"/>of? Now how doth a mans judg<g ref="char:EOLhyphen"/>ing <pb n="80" facs="tcp:109129:48"/>for himſelf, after
+he hath weighed Arguments and compared Text with Text render the Scrip<g ref="char:EOLhyphen"/>ture to
+be no guide, any more then your hearing and examining all the Arguments and
+Reaſons which are alledged for the True Church a<g ref="char:EOLhyphen"/>mong all pretenders to it
+and after<g ref="char:EOLhyphen"/>ward according to your underſtand<g ref="char:EOLhyphen"/>ing judge which is true, renders
+your ſelf, and not your Church the true guide. And yet this is your Argument,
+<hi>Every man judgeth for himſelf which is the true ſenſe; there<g ref="char:EOLhyphen"/>fore the
+Scriptures are in themſelves no judge at all.</hi>
+            </p>
+            <p>In the cloſe of this Argument, <hi>p.</hi> 26. You conclude,
+<hi>That if God lo<g ref="char:EOLhyphen"/>ved the ſouls of Men, he would have provided ſome ſure
+means by which they might have been aſſured of the true faith,</hi> &amp;c.
+<hi>without leaving them to the Scrip<g ref="char:EOLhyphen"/>tures to be interpreted by each one, as
+he thinks beſt.</hi>
+            </p>
+            <pb n="81" facs="tcp:109129:48"/>
+            <p>May not I reply as before, That if God loved the ſouls of men,
+he would have left them ſome ſure means to finde the True Church a<g ref="char:EOLhyphen"/>mong the
+many falſe pretenders to it, and not have left it to themſelves to chooſe
+which Church in their pri<g ref="char:EOLhyphen"/>vate Judgement they ſhall think is the true
+one.</p>
+            <p>Having done with your negative poſitions, viz. <hi>That the
+private ſpirit, Reaſon, and Scripture is not the ſole Judge;</hi> you
+come to infer from the whole, <hi>That the Catholick Church is this judge, and
+that God had alwayes ſuch a Church.</hi>
+            </p>
+            <p>This you endeavour to make good by ſaying, <hi>God had ſuch a
+Church Two Thouſand Years before any Scrip<g ref="char:EOLhyphen"/>ture was written;</hi> And to
+demonſtrate this you ſay; <hi>Circumciſion was brought in by</hi>
+Abraham, <hi>and practiſed by the Church without Scripture to try it by,</hi>
+&amp;c.</p>
+            <pb n="82" facs="tcp:109129:49"/>
+            <p>I Anſwer firſt, If the Pope will bring in any new Law or Canon
+with that Authority as <hi>Abraham</hi> brought in Circumciſion, we will
+believe him without a Council, or deſiring him to prove it by Scrip<g ref="char:EOLhyphen"/>ture.
+But</p>
+            <p>Secondly, It ſeems here is ſome other Rule and Guide beſide
+Rea<g ref="char:EOLhyphen"/>ſon, Scripture, the private Spirit, and the Church; for here is no
+Council to decree Circumciſion, nor private ſpirit to ſuggeſt it, nor
+reaſon to contrive it; But here is God appearing to <hi>Abraham,</hi> and
+commanding it by an immediate voice from Heaven; So that this was Gods way of
+guiding his Peo<g ref="char:EOLhyphen"/>ple then, and not by General Coun<g ref="char:EOLhyphen"/>cils, and of this opinion is
+<hi>Chryſo<g ref="char:EOLhyphen"/>stome Hom.</hi> 1. in <hi>Mat.</hi> who conceives <hi>God might
+uſe other means;</hi> and this agrees with that ſaying, <hi>Heb.</hi> 1.1.
+God in ſundry times, and in diverſe manners ſpake to our Fathers by the
+Prophets.</p>
+            <pb n="83" facs="tcp:109129:49"/>
+            <p>Laſtly, If the Scriptures are ly<g ref="char:EOLhyphen"/>able to many exceptions (as you
+ſay) by which they are rendred un<g ref="char:EOLhyphen"/>capable of being our infallible Guide, then
+I demand how you know what was tranſacted in the World the firſt 2000
+Years, and whether there was any Church at all in thoſe times. If you ſay
+you are by the Hyſtory of the Scriptures guided to believe what was done 2000
+Years before the firſt Pen-man was born; I demand how you can believe this,
+ſince they are ſo fallibly and ſubject to ſo many ex<g ref="char:EOLhyphen"/>ceptions as you
+ſay? But further, may I not with more certitude be<g ref="char:EOLhyphen"/>lieve what
+<hi>Moſes</hi> and all the Pen-men of Holy Scriptures writ of things they
+were eye-witneſſes of, then you can be of what <hi>Moſes</hi> writ the
+firſt 2000 Years that were expired before he was born?</p>
+            <p>You come in <hi>pag.</hi> 27 to a ſecond Argument, Namely,
+<hi>That the Church <pb n="84" facs="tcp:109129:50"/>of the Jews, were ſo the Jews,</hi>
+(I ſuppoſe you mean an infallible guide) <hi>after the Scriptures were
+written;</hi> and for this purpoſe you cite, Deut. 17.8. <hi>The man that
+will do preſumptiouſly, and will not hearken to the voice of the Prieſt
+or unto the Judge that man ſhall dye.</hi> I anſwer, The Scripture ſaith,
+<hi>Pro.</hi> 16.10. A divine ſentence is in the lips of the King his mouth
+tranſgreſſeth not in judgement; Doth it follow from hence, that all Kings
+are infal<g ref="char:EOLhyphen"/>lible in their judgments: But how and by what Rule were theſe
+prieſts to judge whom the People were to obey upon pain of death.
+<hi>Ezekiel</hi> tells us, <hi>Chap.</hi> 44.24. <hi>And in Con<g ref="char:EOLhyphen"/>troverſie
+they ſhall stand in judgement, and they ſhall judge it according to my
+Judgement, they ſhall keep my Lawes and Statutes in all their Aſſemblies,
+and hol<g ref="char:EOLhyphen"/>low my Sabbaths.</hi> But did theſe Prieſts and Judges always judge
+ac<g ref="char:EOLhyphen"/>cording to Gods Law? were they always infallible in their Sentences? 
+<pb n="85" facs="tcp:109129:50"/>How comes it to paſs then that <hi>Aaron</hi> ſinned in
+hearkening to the voice of the People, when they re<g ref="char:EOLhyphen"/>quired him to make them a
+Calf? <hi>Exod.</hi> 32.2. and <hi>v.</hi> 7. It is ſaid, <hi>They had
+corrupted themſelves.</hi> Where was this Churches infallibility at this
+time? and <hi>v.</hi> 8. <hi>They turned a<g ref="char:EOLhyphen"/>ſide quickly out of the way, which
+I com<g ref="char:EOLhyphen"/>manded them.</hi> And again, where was the infallibility of the Prieſt,
+when he appointed them <hi>v.</hi> 3. <hi>To break off their earing which were
+in their eares to make a Calf?</hi> Surely in this they were an excellent type
+of the Romane Church, who were quick<g ref="char:EOLhyphen"/>ly corrupted from their Primitive Purity.
+Again, <hi>Ezek.</hi> 22.26. It is ſaid, <hi>The Priests have violated my
+Law, they have prophaned my Holy things, they have put no difference be<g ref="char:EOLhyphen"/>tween
+the Holy and Prophane, neither have they ſhewed difference between the Clean
+and the unclean, and have hid their eyes from my Sabbath, and I am 
+<pb n="86" facs="tcp:109129:51"/>prophaned among them:</hi> Neither was this the fault or a
+few, but the Text tells us, <hi>v.</hi> 30. That <hi>God ſought for a Man
+among them, that ſhould make up the hedge, and ſtand in the gap before him
+for the land, but he found none.</hi> Where was the Prieſt; and the
+in<g ref="char:EOLhyphen"/>fallible church all this while, whom the People were to hear upon paine of
+death? So that the Text by you cited, <hi>Deut.</hi> 17. is abuſed; for they
+had plain Laws written, which were to be a guide to Prieſt and People; which
+if the Prieſt did not judge accordingly, (as many times they did not) the
+People were not to hear them.</p>
+            <p>Your other Text is <hi>Mat.</hi> 23.2, 3. the Scribes and
+Phariſees ſit in <hi>Moſes</hi> Chair, all therefore whatſoever they
+bid you obſerve, that obſerve and do.</p>
+            <p>I Anſwer, If by ſitting in <hi>Moſes</hi>'s chair, you
+underſtand their teaching the People according to <hi>Moſes</hi> Law, 
+<pb n="87" facs="tcp:109129:51"/>we are of your mind, for ſo it ap<g ref="char:EOLhyphen"/>pears in the forecited
+Text in <hi>Ezekiel,</hi> and in all ſuch things the People were to hearken
+to them. But if by ſitting in <hi>Moſes</hi> Chair you underſtand their
+Publick Authority, and that whatſoever they ſo taught was infallible; This
+I deny, for they did ſometimes like the Pope, <hi>Mark</hi> 7.7 <hi>Teach for
+Doctrines the Command<g ref="char:EOLhyphen"/>ments of men,</hi> and v. 8. <hi>Laid aſide the
+Commandments of God</hi> (as you do the Scriptures) <hi>that they might hold
+the traditions of men,</hi> and v. 13. <hi>Made the Word of God of none effect
+by their traditions.</hi> But if the Church of the Jews which was repreſented
+in the great <hi>Synedrion</hi> could not erre, then it followeth, that all
+Chriſtian Reli<g ref="char:EOLhyphen"/>gion muſt be diſcarded. For if ſhe was infallible in
+that judgment, ſhe made of Chriſt and his Do<g ref="char:EOLhyphen"/>ctrine, then there remains
+nothing, but that we renounce both him and it, and turn either Jews or
+Pagans.</p>
+            <pb n="88" facs="tcp:109129:52"/>
+            <p>But laſtly, It appears that Chriſt himſelf had not this
+opinion of the infallibility of the Jewiſh Church, which you have, becauſe
+then he ſhould have referred all he taught to be decided by them, whether it
+were true or no. But inſtead there<g ref="char:EOLhyphen"/>of he appeals to the Scriptures, and
+offers Himſelf and his Doctrine (as we do at this day) to ſtand or fall by
+their verdict, and to their Authority of the Church he oppoſeth that of the
+Scripture, to which he knew the other ought to give place, <hi>John</hi>
+5.39.46. <hi>Mat.</hi> 22.42, 43, 44. <hi>Luke</hi> 24.27.</p>
+            <p>You come in the third place, in <hi>p.</hi> 27.28. to prove
+<hi>that there ſhall be an infallible Church under the New Testa<g ref="char:EOLhyphen"/>ment,</hi>
+your Texts are <hi>Eſay</hi> 2.23, 3. <hi>Eſay</hi> 35.8.54.3.13, 17.
+<hi>Eſay</hi> 59.21. <hi>Eſay</hi> 60.10, 12.</p>
+            <p>To which I anſwer, Firſt Why are theſe Texts brought to
+prove an infallible Church, when the Texts <pb n="89" facs="tcp:109129:52"/>themſelves
+(you ſay) are no infalli<g ref="char:EOLhyphen"/>ble guide, how then can they guide us to your
+infallible Church? But,</p>
+            <p n="2">2. How doth it appear that theſe Texts are to be applied
+to the Church of the New Teſtament? Much leſs doth it appear, that they are
+to be applyed to your Roman Church.</p>
+            <p n="3">3 Theſe promiſes to the Church are made upon condition,
+like that promiſe, <hi>Ezekiel</hi> 36.27. <hi>I will put my Spirit within
+you, and cauſe you to walk in my statutes; here</hi> (to uſe your own
+words) <hi>is the Spirit of Truth promiſed to preſerve them from
+errour.</hi> But this is not abſolutely promiſed without condition; for the
+37 <hi>ver.</hi> ſaith, <hi>For all this he will be enquired of them.</hi>
+And to this agrees thoſe Texts in the New Teſtament, <hi>Act.</hi> 5.32.
+<hi>The holy Ghoſt which God hath promiſed to them that obey him.</hi> Luke
+11.13. <hi>My heavenly Father ſhall give <pb n="90" facs="tcp:109129:53"/>the Holy Spirit
+to them that ask him.</hi> By all which it appears that God did not promiſe
+to guide the Church abſolutely and irreſiſtably, whether they would or
+no: but upon their faithful adhering to what they had been taught, he
+promiſeth his Spi<g ref="char:EOLhyphen"/>rits continual ſupply for their con<g ref="char:EOLhyphen"/>tinual
+inſtruction.</p>
+            <p>But 4. Whereas it is ſaid, <hi>Eſay</hi> 35.8. that <hi>there
+ſhall be away that fools ſhall not err therein,</hi> (which is a Text ſo
+much inſiſted on by you.) I demand whether this Text doth imply an
+impoſsibility of erring? If ſo, then we may as well go to a Fool to be
+guided, as to a Pope, be<g ref="char:EOLhyphen"/>cauſe it ſaith; <hi>The wavering men though.
+Fools, ſhall not err therein:</hi> ſo that this Text as truly concludes
+in<g ref="char:EOLhyphen"/>fallibility in any body, as in the Pope and his Council.</p>
+            <p>But 5. To ſpeak ſomewhat in particular to that Text,
+<hi>Eſay</hi> 59.21. <hi>As for me this is my Covenant with them 
+<pb n="91" facs="tcp:109129:53"/>(ſaith the Lord) my ſpirit that is upon thee, and my
+words which I have put in thy mouth, ſhall not depart out of thy mouth, nor
+out of the mouth of thy ſeed, nor but of the mouth of thy ſeeds ſeed from
+heneforth and forever.</hi>
+            </p>
+            <p>To this Text I anſwer, That theſe words are rather a charge
+that Gods Word ſhould not depart from them and their ſeed, then a promiſe
+of a<g ref="char:EOLhyphen"/>ny ſuch thing. And therefore Mr. <hi>Calvin</hi> (whom you ſometimes
+produce upon the like occaſion) grants that the words will bear an Imperative
+conſtruction, God re<g ref="char:EOLhyphen"/>quiring them thereby not to quench his Spirit, which he
+puts in<g ref="char:EOLhyphen"/>to them, nor forſake his Word which he ſhould teach them; ſo that
+as the Covenants on his part to give them his Word and Spirit, ſo he requires
+on their part that they ſhould not reſiſt nor quench it; and to this
+agrees <hi>Junius,</hi> and therefore he tranſlates thoſe word; in the
+be<g ref="char:EOLhyphen"/>ginning <pb n="92" facs="tcp:109129:54"/>of the verſe, <hi>As for me, De me autem, i.
+e.</hi> but as much as concerns me: thereby ſhewing, that as God had
+concerned himſelf in putting his Word and Spirit into them, ſo they were
+concerned to ſee that it did not depart from them. And therefore unleſs you
+can prove that the Church of <hi>Rome</hi> is the Church here propheſied of:
+and al<g ref="char:EOLhyphen"/>ſo that theſe Texts are not under<g ref="char:EOLhyphen"/>ſtood conditionally; and if
+condi<g ref="char:EOLhyphen"/>tionally, that the Church of <hi>Rome</hi> hath obſerved theſe
+conditions, you have but beaten the air in the cita<g ref="char:EOLhyphen"/>tion of them.</p>
+            <p>You proceed to a fourth Argu<g ref="char:EOLhyphen"/>ment to prove that there muſt be an
+infallible Church, from ſeveral Texts of the New Teſtament; the firſt is,
+<hi>Mat.</hi> 16.19. <hi>Upon this Rock I will build my Church, and the gates
+of Hell ſhall not prevail againſt it.</hi>
+            </p>
+            <p>To which I anſwer, Firſt, that you have loſt the Original of
+St. <hi>Ma<g ref="char:EOLhyphen"/>thews</hi> 
+               <pb n="93" facs="tcp:109129:54"/>Goſpel, (as you confeſs) and
+therefore you know not whether this Text be ſo in the Original, and this
+further appears becauſe you ſay, <hi>pag.</hi> 20. that you cannot tell
+whe<g ref="char:EOLhyphen"/>ther he that tranſlated it was an ho<g ref="char:EOLhyphen"/>neſt man or not.</p>
+            <p>But 2. The words upon which this Controverſie depends
+<hi>(viz.)</hi> the Rock and the Gates of Hell are a Metaphorical expreſsion,
+from whence Logically you cannot in<g ref="char:EOLhyphen"/>fer your concluſion.</p>
+            <p n="3">3. No Scripture is of private in<g ref="char:EOLhyphen"/>terpretation: Now to
+interpret the prevailing of the gates of Hell, for the prevailing of Errour, is
+a pri<g ref="char:EOLhyphen"/>vate interpretation, firſt, becauſe Errour and Hereſie is never
+ſo cal<g ref="char:EOLhyphen"/>led in all the Scripture: 2. Be<g ref="char:EOLhyphen"/>cauſe <hi>Sheol,</hi> which the
+Greek tran<g ref="char:EOLhyphen"/>ſlates <hi>haiden</hi> or <hi>haides,</hi> and we in Engliſh
+<hi>Hell,</hi> is frequently taken for the Grave.</p>
+            <p>And of this mind was <hi>Chryſoſtom,</hi> 
+               <pb n="94" facs="tcp:109129:55"/>who paraphraſing upon theſe words of Chriſt, ſaith, <hi>If the
+gates of Hell ſhall not prevail againſt the Church, much more ſhall they
+not prevail againſt Chriſt; therefore be not troubled when thou ſhalt
+hear that I am betrayed and crucified.</hi> By which it doth appear that this
+Author underſtands by the <hi>gates of Hell prevailing,</hi> that Death and
+the Grave ſhould neither pre<g ref="char:EOLhyphen"/>vail over Chriſt nor his Church, and therefore
+he could not underſtand thereby that it was a promiſe the Church ſhould
+not err, and that the <hi>gates of Hell</hi> is underſtood for the gates of
+the Grave, ſee <hi>Eſay</hi> 38.10. <hi>Hezekiah</hi> ſaid when the fear
+of death came upon him, that <hi>he ſhould go to the gates of Sheol, i.
+e.</hi> Grave. <hi>So Job</hi> 38.17. <hi>Pſal.</hi> 9.13. <hi>Pſal.</hi>
+107.18.</p>
+            <p n="4">4 Again, As the <hi>gate of Hell</hi> can<g ref="char:EOLhyphen"/>not be
+underſtood for Error, ſo the Rock here ſpoken of, cannot be un<g ref="char:EOLhyphen"/>derſtood
+for <hi>Peters</hi> perſon, becauſe <pb n="95" facs="tcp:109129:55"/>it is more agreeing
+with the ſenſe of the place, being compared with other Scriptures, and the
+Analogie of Faith to underſtand it of Chriſt, who is the Rock of Ages, and
+the chief Corner-ſtone, <hi>Epheſ.</hi> 2.20. and 1 <hi>Cor.</hi> 10.4.
+they drank of that ſpi<g ref="char:EOLhyphen"/>ritual Rock that followed them, and that Rock was
+Chriſt.</p>
+            <p>So that <hi>Peter</hi> having profeſſed Chriſt to be the Son
+of the living God, our Lord tells him, that <hi>Upon this Rock</hi> (or
+Chriſt, whom he had made profeſſion of) <hi>he would build his
+Church;</hi> and that though he might be put to death (to uſe the words of
+<hi>Chryſoſtome</hi>) yet <hi>Peter</hi> ought not to be troubled,
+becauſe death ſhould not have dominion over him, the gates of death
+ſhould not prevail a<g ref="char:EOLhyphen"/>gainſt him, who will ſwallow up death in
+victory.</p>
+            <p>But laſtly, What if we pity the poor, and grant you that which
+you are never able to prove, <hi>(viz.)</hi> 
+               <pb n="96" facs="tcp:109129:56"/>that by the
+Gates of Hell not pre<g ref="char:EOLhyphen"/>vailing ſhould be underſtood, that Errour and
+Hereſie ſhould not pre<g ref="char:EOLhyphen"/>vail againſt the Church: Yet it doth not follow
+from hence, that the Church ſhall be preſerved from all Errour. Might you
+not as well ſay, that none that believe can ſin, becauſe ſin ſhall
+not have domini<g ref="char:EOLhyphen"/>on over them; and that it was im<g ref="char:EOLhyphen"/>poſsible for Saints to die,
+becauſe Chriſt hath promiſed them the vi<g ref="char:EOLhyphen"/>ctory over death: as ſay, that
+be<g ref="char:EOLhyphen"/>cauſe Chriſt hath promiſed Errour ſhall not prevail over them, that
+therefore it is impoſsible the Church ſhould err in any thing.</p>
+            <p>Your next Scripture is, <hi>Mat.</hi> 18.17. <hi>He that will not
+hear the Church, let him be unto thee as a Heathen or a Publican.</hi>
+            </p>
+            <p>I anſwer, 1 It doth not follow from hence that the Church
+can<g ref="char:EOLhyphen"/>not err, no more then it followeth from your former Arguments, that 
+<pb n="97" facs="tcp:109129:56"/>the Scribes and Phariſees could not err, becauſe
+Chriſt commanded to hear them; But,</p>
+            <p n="2">2 This Text proves more then you allow; for it proves, that
+par<g ref="char:EOLhyphen"/>ticular Churches cannot err; for of ſuch a Church Chriſt ſpeaks, and
+not of the Church repreſentative in a general Council; my reaſon is,
+becauſe one that is offended with his brother, if he cannot reclaim him, he
+muſt tell the Church, which cannot be underſtood for any, but that
+particular Church among whom he reſides; which, you ſay, are ſuch as may
+err in judgment.</p>
+            <p n="3">3 By the ſame parity of reaſon, a ſingle private man
+cannot err, be<g ref="char:EOLhyphen"/>cauſe the Text ſaith, he ought to be heard if he admoniſh
+his brother of his fault, <hi>ver.</hi> 15, 16, 17. and that it is his brothers
+ſin if he do not hear him: and the Text further ſaith, If his brother do
+hear him, that he hath gained his brother.</p>
+            <pb n="98" facs="tcp:109129:57"/>
+            <p>But if this brother might err, then he might err in admoniſhing,
+and the admoniſhed perſon in ſtead of being gained to the Truth, might be
+gained to an errour. This is the ſum of your Argument, I am to hear the
+Church, therefore the Church cannot err; might you not as Logically infer, that
+becauſe I am to hear a ſingle private bro<g ref="char:EOLhyphen"/>ther, therefore a ſingle
+private bro<g ref="char:EOLhyphen"/>ther cannot err; and by this you would make all the Sons of your
+Church infallible, like the Pope your Father; and by this rule Pa<g ref="char:EOLhyphen"/>rents are
+infallible, becauſe they muſt be heard by their children.</p>
+            <p>Your next Scriptures are, <hi>Mat.</hi> 28.20. <hi>Lo I am with
+you always to the end of the world:</hi> and <hi>Joh.</hi> 24.16. <hi>I will
+pray the Father, and he will ſend you another Comforter, that he may abide
+with you for ever, even the Spirit of Truth, which the World cannot
+receive:</hi> and ver. 26. <hi>The Comforter, which is <pb n="99" facs="tcp:109129:57"/>the
+Holy Ghoſt which the Father will ſend in my name, he ſhall teach you all
+things, and bring all things into your remem<g ref="char:EOLhyphen"/>brance whatſoever I have ſaid
+unto you:</hi> and Chap. 16.17. <hi>I have ma<g ref="char:EOLhyphen"/>ny things to ſay unto you, but
+you cannot hear them now; howbeit, when the Spi<g ref="char:EOLhyphen"/>rit of Truth is come, he will
+guide you into all Truth.</hi>
+            </p>
+            <p>From which you infer, that <hi>if Chriſt and his Spirit ſhould
+be with his Apoſtles for ever, to lead them into all Truth;</hi> it follows,
+<hi>they ſhall be pre<g ref="char:EOLhyphen"/>ſerved from all errour.</hi>
+            </p>
+            <p>To which I anſwer, 1. That this Text in St. <hi>Mathew</hi>
+cannot be a good argument for you, becauſe (you ſay) you have loſt the
+Origi<g ref="char:EOLhyphen"/>nal of St. <hi>Mathews</hi> Goſpel, and can<g ref="char:EOLhyphen"/>not tell whether he that
+did tran<g ref="char:EOLhyphen"/>ſlate it, was an honeſt man or no.</p>
+            <p n="2">2 The Spirit of Chriſt might pre<g ref="char:EOLhyphen"/>ſerve the Apoſtles
+from all Errour, and yet not be engaged to ſecure the Church from erring to
+the end of the World.</p>
+            <pb n="100" facs="tcp:109129:58"/>
+            <p>But 3 I anſwer further, If this promiſe was made that the Holy
+Spirit ſhould lead the Church in all Ages, into all Truth, it doth not follow
+(as I have ſaid) that it ſhould lead them irreſiſtably; though it might
+lead them ſufficiently.</p>
+            <p>But 4. May I not as well infer, that becauſe the Spirit was
+promiſed to convince the World of ſin, becauſe they believe not in
+Chriſt, that therefore all the world cannot be but effectually and
+irreſi<g ref="char:EOLhyphen"/>ſtably convinced, as you may ſay, that becauſe the Spirit is
+promiſed to lead into all Truth, that there<g ref="char:EOLhyphen"/>fore the Church cannot err, but
+muſt be effectually ſo led.</p>
+            <p n="5">5 It is called the Spirit of Truth which the World cannot
+receive, meaning notorious and wicked men. Now then this Spirit ſome of
+thoſe Popes which you call the Apoſtles ſucceſſors, could not have,
+becauſe many of them have been <pb n="101" facs="tcp:109129:58"/>notoriouſly and
+confeſſedly wicked; all which doth plainly ſhew, that this promiſe of
+the Spirit was made to direct and guide us into a further knowledge of the
+Truth, till we come to be perfect in Chriſt, upon condition that we are
+faithful in what we already know. Like un<g ref="char:EOLhyphen"/>to that promiſe, <hi>Joh.</hi>
+17.17. <hi>If any man do his will, he ſhall know of his do<g ref="char:EOLhyphen"/>ctrine:</hi> and
+to this agrees the <hi>Rhemi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+Teſtament, tranſlating that Text of <hi>John</hi> 14.15, 16. <hi>If you
+love me keep my comandements, and I will pray the Father, and he will give you
+another Pa<g ref="char:EOLhyphen"/>raclete that he may abide with you for ever.</hi> Now how can I be
+infallible that the Pope is thus guided, unleſs I do infallibly know that he
+loves God and keeps his Commande<g ref="char:EOLhyphen"/>ments?</p>
+            <p n="6">6 You ſay, <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> into all Truth, implies preſerving from all errour:</hi> but
+this follow, not, not more, then be<g ref="char:EOLhyphen"/>cauſe the Scriptures ſay, Gods 
+<pb n="102" facs="tcp:109129:59"/>goodneſs leads to Repentance, that therefore all men
+ſhould be preſer<g ref="char:EOLhyphen"/>ved from impenitency.</p>
+            <p>And laſtly, If leading into all truth, implies preſerving from
+all Error, how comes it to paſs, that ſince your Church (as you ſay) is
+an infallible guide into all Truth, that ſhe doth not preſerve all her
+ſons from all Errour? And if you ſhall ſay ſee doth guide them all
+ſufficiently though not efficiently, although that be falſe, yet you have
+anſwered your ſelf. For though Gods Spirit and goodneſs be ſuffici<g ref="char:EOLhyphen"/>ent
+to lead to Truth and Repen<g ref="char:EOLhyphen"/>tance, yet it doth not follow, but there are (as
+ſad experience teach<g ref="char:EOLhyphen"/>eth) multitudes of erring and im<g ref="char:EOLhyphen"/>penitent perſons.</p>
+            <p>Your next Text is, <hi>Epheſ.</hi> 4.11. <hi>He gave ſome
+Prophets, ſome Evan<g ref="char:EOLhyphen"/>geliſts, ſome Pastors, and ſome Tea<g ref="char:EOLhyphen"/>chers, for
+perfecting the Saints, for the work of the Miniſtry, for the edi<g ref="char:EOLhyphen"/>fying 
+<pb n="103" facs="tcp:109129:59"/>the body of Christ till we come in the union of the
+faith;</hi> and ver. 14. <hi>that we be no more children in underſtanding,
+&amp;c.</hi> From which Text you would prove that the ſuc<g ref="char:EOLhyphen"/>ceſsion of the
+Apoſtles in the Church, was to preſerve people from being toſſed to and
+fro with every wind of Doctrine, but what then? doth this prove the Church
+cannot err? This means was uſed by God for the perfecting of Saints, and yet
+we ſee that they are full of imperfections. Thus God may teach, and the
+Church not learn; Gods Spirit may lead, and the Church (like <hi>Rome</hi>) may
+be refra<g ref="char:EOLhyphen"/>ctory.</p>
+            <p>Your laſt Text is, 1 <hi>Tim.</hi> 3.15. <hi>The Church of the
+living God, the Pil<g ref="char:EOLhyphen"/>lar and ground of Trust.</hi> Hence you would infer,
+<hi>that the Church cannot err, becauſe we may ſecurely relye upon her, as
+upon a Pillar.</hi> To which I an<g ref="char:EOLhyphen"/>ſwer, That theſe words do not re<g ref="char:EOLhyphen"/>ſpect 
+<pb n="104" facs="tcp:109129:60"/>the univerſal Church) as you would have it, but the
+particular Church which <hi>Timothy</hi> had the overſight of, in which
+<hi>Paul</hi> admo<g ref="char:EOLhyphen"/>niſheth him how he ſhould behave himſelf.</p>
+            <p>But 2. If this were granted that the univerſal Church is here
+meant, and not a particular Church; I an<g ref="char:EOLhyphen"/>ſwer that this proves nothing to
+your purpoſe becauſe Churches and People receive their denomination
+ordinarily from what they ſhould be in point of Duty, and not from what they
+are by neceſsity. Thus the Diſciples are called the Salt of the Earth,
+becauſe they were in du<g ref="char:EOLhyphen"/>ty to be ſo, and not that there, was a neceſsity
+that they could not have been otherwiſe; elſe it had been in vain to
+threaten them that if they loſt their ſavour they ſhould be good for
+nothing, but to be trodden under foot. In like manner the Church is the Pillar
+of Truth, and ground of <pb n="105" facs="tcp:109129:60"/>in point of Duty, and yet this
+doth not hinder, but ſhe may neglect and violate this Duty, and become the
+Teacher of Errour.</p>
+            <p>But laſtly, The Church may be the Pillar and Ground of Truth,
+not only becauſe ſhe ſhould be ſo, but becauſe in all Ages ſhe is
+ſo, in that ſhe teacheth and maintaineth all things neceſſary to
+ſalvation, but yet ſhe may for all that erre, and be miſtaken in ſome
+profitable points; and as a Man may be a man that hath ſome lameneſs and
+deformity of Body, ſo may the Church be a true Church, though it may be
+cor<g ref="char:EOLhyphen"/>rupt in Doctrine and Practiſe, which it will hardly be freed from till
+the day in which ſhe ſhall be pre<g ref="char:EOLhyphen"/>ſented to her huſband a chaſt
+ſpouſe without ſpot or wrinkle, or any ſuch thing.</p>
+            <p>You proceed, and in <hi>p.</hi> 30. Aſ<g ref="char:EOLhyphen"/>ſigne a fifth Argument,
+<hi>That the Church of God was the Rule and Judge, <pb n="106" facs="tcp:109129:61"/>and the
+Infallible Guide, when Chriſt and his Apoſtles was upon the Earth,</hi>
+From whence you would infer, that it is ſo ſtill; Sir, I can very well own
+the Antecedent, and deny the Conſequence: But you ſay, <hi>There is no
+Reaſon why the Church ſhould not be ſo still, unleſs it be ſaid that
+the Apo<g ref="char:EOLhyphen"/>ſtles were Infallible Guides till the Ca<g ref="char:EOLhyphen"/>non of the Scripture was
+finiſhed, and that then Infallibility ceaſed,</hi> &amp;c. But then (you
+ſay) <hi>what will be the Con<g ref="char:EOLhyphen"/>ſequence; if that the Canon of the
+ſequence; if that the Canon of the Scripture which the Apoſtles finiſhed
+be now uncompleated by the loſs of thoſe E<g ref="char:EOLhyphen"/>piſtles, and Parcels of the
+Apoſtles Wri<g ref="char:EOLhyphen"/>tings, which</hi> (you ſay) <hi>you have proved to be
+loſt.</hi>
+            </p>
+            <p>I Anſwer, It will not follow that we ſhall need your bind
+guide, if what you ſay were true: But Se<g ref="char:EOLhyphen"/>condly, It follows that your Church
+is fallible, becauſe ſhe hath not faithfully kept thoſe Epiſtles, that
+ſhe ſaith, were committed to her <pb n="107" facs="tcp:109129:61"/>truſt, as I have
+told you once, and a<g ref="char:EOLhyphen"/>gain.</p>
+            <p>Thirdly, Whereas you ſay, <hi>p.</hi> 31, <hi>If we had the
+whole Canon, yet it were not ſufficient to decide all Controverſies now on
+foot in matters of Faith.</hi> Sir, this is but the ſame over and over, for
+doth it follow, that becauſe all Controverſies are not decided, that
+therefore the Scripture is not ſuf<g ref="char:EOLhyphen"/>ficient to decide them? Surely then it
+follows, your Church is not ſuf<g ref="char:EOLhyphen"/>ficient to decide all Controverſies,
+becauſe the Controverſie between the Jeſuites, and the Dominicans, and
+the Franciſcans, and the Do<g ref="char:EOLhyphen"/>minicans are not yet decided.</p>
+            <p>But Laſtly, You may as well ſay, that the Grace of God doth
+not ſuf<g ref="char:EOLhyphen"/>ficiently teach Men to deny ungod<g ref="char:EOLhyphen"/>lineſs, and worldly laſt,
+becauſe the world lyes in wickedneſs, as ſay the Scriptures are not
+ſufficient to de<g ref="char:EOLhyphen"/>cide Controverſies In Faith, be<g ref="char:EOLhyphen"/>cauſe Controverſies in
+Faith are <pb n="108" facs="tcp:109129:62"/>not decided. This is your Romiſh
+Reaſoning.</p>
+            <p>You come to your laſt Reaſon, in <hi>pag.</hi> 32. and tell
+us, <hi>Tell none of thoſe difficulties that were propoſed to prove the
+Scripture not to be the Rule, are capable of being objected againſt the
+Church.</hi>
+            </p>
+            <p>This Argument I have already Anſwered, by ſhewing that the
+ſame and greater abſurdities are ob<g ref="char:EOLhyphen"/>jected againſt your Church. But
+however I will Examine your Firſt Reaſon, ſince I have not yet met with
+it, and that is, <hi>Becauſe the Church</hi> (you ſay) <hi>is capable of
+anſwering thoſe, ends, for which it is propoſed, in that all that
+ſubmit to it, are of one Faith.</hi>
+            </p>
+            <p>I Anſwer, Then the Church of <hi>England</hi> may be this True
+Church, for all that ſubmit to her are of one Faith, and if any are not, it
+is be<g ref="char:EOLhyphen"/>cauſe they ſubmit not.</p>
+            <p>Your other Reaſons have fallen under conſideration in the
+Anſwer<g ref="char:EOLhyphen"/>ing <pb n="109" facs="tcp:109129:62"/>of your Arguments about the invalidity of the
+Scripture, to which I refer the Reader.</p>
+            <p>You proceed to Anſwer an Ob<g ref="char:EOLhyphen"/>jections <hi>pag.</hi> 32. which you
+ſay, is, <hi>made by thoſe of the ſeparation</hi> (viz.) <hi>that theſe
+Texts, which you have urged, are to be understood by the Church Tri<g ref="char:EOLhyphen"/>umphant,
+and not of the Church Mili<g ref="char:EOLhyphen"/>tant in the World;</hi> And after you have ſet up
+this pupper of your own (as you phraſe it) or man of ſtraw, you ſpend
+your 33, 34, and 35 <hi>Pages</hi> to fight againſt it, and therefore I
+ſhall do nothing to part the fray, becauſe that ſuppoſed notion is no
+friend of mine; therefore I ſhall leave you to ſtruggle with it as well as
+you can.</p>
+            <p>Having taken it for granted, that there muſt be an infallible
+Church, you come in the laſt place, <hi>pag.</hi> 36. to reſolve which is
+this Church, and this (you ſay) is the Roman Church; the ſumm of your
+Argument, is <pb n="110" facs="tcp:109129:63"/>this; <hi>God hath appointed ſome Church
+upon Earth to be our Infallible Judge;</hi> Ergo, <hi>the Roman Church muſt
+needs be this Infallible Church, becauſe no Church differing from it (that is
+none but the Roman Church) can be this Infallible Church.</hi>
+            </p>
+            <p>I Anſwer, That this in effect is a Womans Reaſon, to ſay,
+that you are Infallible, becauſe you are In<g ref="char:EOLhyphen"/>fallible; for you ſay, <hi>The
+Roman Church muſt needs be ſo, becauſe none but the Roman Church can be
+ſo.</hi> No marvel you tell us Reaſon muſt not be our Judge, for fear it
+ſhould condemn ſuch un-manlike Argu<g ref="char:EOLhyphen"/>ing: But you add further, <hi>pag.</hi>
+37. <hi>That the Church which is appointed by God to be this Infallible Judge,
+must needs have this condition, that ſhe own her Infallibility.</hi>
+            </p>
+            <p>To which I Anſwer, That then there was no True Church the
+firſt 300 years, becauſe that there was none that ever owned Infallibility 
+<pb n="111" facs="tcp:109129:63"/>in your ſenſe, unleſs it were the Church of
+<hi>Laodicea,</hi> who like <hi>Rome,</hi> ſaid ſhe was rich, and
+increaſed in goods, and had need of nothing, whereas ſhe was poor, and
+miſer<g ref="char:EOLhyphen"/>able, blind, and naked.</p>
+            <p>So that the whole Argument is made up of preſumption, for you
+preſume ſome Church is Infallible, and then you preſume your Church
+muſt needs be ſo, becauſe no other Church own themſelves to be
+In<g ref="char:EOLhyphen"/>fallible; but you muſt needs give us a better Reaſon, or elſe, while
+we make any uſe of Reaſon, we ſhall not believe it to be ſo; for what
+if any Church ſhould have the confidence to call themſelves Infallible,
+then your Argument would fall to the ground, and the Queſtion would then be
+to be deci<g ref="char:EOLhyphen"/>ded either by the Word, or by the Sword, which of the two were truly
+Infallible.</p>
+            <pb n="112" facs="tcp:109129:64"/>
+            <p>Having Anſwered your Argu<g ref="char:EOLhyphen"/>ments, I ſhall propoſe a few
+Que<g ref="char:EOLhyphen"/>ſtions to conſiderations, wherewith<g ref="char:EOLhyphen"/>all I ſhall conclude.</p>
+            <p>Whereas you ſay, There muſt be an Infallible Church on Earth
+to judge of all differences?; and that this Church conſiſts of a Pope
+reci<g ref="char:EOLhyphen"/>ding in, and defining with a general Council, in which it is repreſented
+by its Paſtours out of all Nations; I querie firſt, How was the Church
+guided for the firſt 300 years, in all which time there was no ſuch
+ge<g ref="char:EOLhyphen"/>neral Council?</p>
+            <p>Secondly, In what time and place was the Church ever ſo
+univerſally repreſented by her Paſtours out of all Nations, if not, then
+how could ſhe be Infallible, being not ſo re<g ref="char:EOLhyphen"/>preſented?</p>
+            <p>Thirdly, If the Church be no otherwiſe Infallible, but by
+general Councils, as aforeſaid, then how can we be guided, when there is no 
+<pb n="113" facs="tcp:109129:64"/>General Councils as at this day?</p>
+            <p>Fourthly, If you ſay we may be guided by thoſe Canons and
+De<g ref="char:EOLhyphen"/>crees which they made in their re<g ref="char:EOLhyphen"/>ſpective Seſſions; Then I demand how
+I ſhall rightly underſtand, that thoſe Laws and Canons are truly
+Tranſlated and Interpreted ſince they were given out in a Language that I
+underſtand not?</p>
+            <p>Fifthly, If you ſhall ſay, I may know them from the mouth of
+the Pope, or Chief Paſtour, then I que<g ref="char:EOLhyphen"/>rie whether it may not be poſſible
+for him to erre, ſince many Popes have been Hereticks, and have taught
+contrary to the Law of God, as that Pope did that told King <hi>Henry</hi> the
+<hi>8th,</hi> he might marry his Brothers Wife.</p>
+            <p>Sixthly, But ſuppoſe the Pope did not erre in giving me the
+true ſenſe of Councils, and their De<g ref="char:EOLhyphen"/>crees, then I querie, How every
+private perſon ſhall have his judg<g ref="char:EOLhyphen"/>ment <pb n="114" facs="tcp:109129:65"/>informed in
+the Truth with<g ref="char:EOLhyphen"/>out going to <hi>Rome?</hi>
+            </p>
+            <p>Seventhly, If you ſay he may be reſolved at home by the
+Paſtours in ſeveral places; then I querie, whe<g ref="char:EOLhyphen"/>ther thoſe Paſtours may
+not erre, ſince it is manifeſt, that the ſeveral Paſtours and Churches
+of <hi>Aſia</hi> did erre; and then how can the mem<g ref="char:EOLhyphen"/>bers of this Church be
+ſure, they are under an Infallible conduct to Eternal Life, and that theſe
+Pa<g ref="char:EOLhyphen"/>ſtours teach according to the Doc<g ref="char:EOLhyphen"/>trine of the Infallible Church?</p>
+            <p n="8">VIII. Since you ſay, that Ge<g ref="char:EOLhyphen"/>neral Councils Lawfully
+Called by the Pope, their chief aſtour cannot erre, I querie, How I ſhall
+be in<g ref="char:EOLhyphen"/>fallibly aſſured, when Councils are ſo called? Since ſometimes
+the Pope may come in by Simony and Uſurpation, as <hi>Boniface</hi> the 3
+did, and ſometimes be a Heritick, as <hi>Ly<g ref="char:EOLhyphen"/>berius</hi> was, who
+ſubſcribed the Ex<g ref="char:EOLhyphen"/>communication of <hi>Athanaſius,</hi> in 
+<pb n="115" facs="tcp:109129:65"/>which caſes they ceaſing to be law<g ref="char:EOLhyphen"/>full Popes, I would
+then know how I can be ſure of a lawful Council?</p>
+            <p n="9">IX. Since there muſt be alway a lawfull ſucceſſion
+of Popes, to make a lawfull ſucceſſion of True Miniſters; How ſhall I
+know in<g ref="char:EOLhyphen"/>fallibly that the Miniſter that I heat did lawfully ſo ſucceed;
+and this I would know, becauſe if he be not a lawfull Miniſter, I may not
+lawfully hear him; And ſince that ſometimes Hereticks have been Popes, and
+ſometimes the Chair hath been U<g ref="char:EOLhyphen"/>ſurped, and once a Woman was Pope, and
+ſometimes there hath been two at once; How ſhall I that am to hear a
+private Paſtour know whether his Ordination did ſucceed from a lawfull
+Pope, and not from ſome of theſe?</p>
+            <p n="10">X. How ſhall I know what Council I may infallibly adhere
+un<g ref="char:EOLhyphen"/>to, ſince one Council hath oppoſed another, and ſome cleave to one 
+<pb n="116" facs="tcp:109129:66"/>Council, and ſome to another; the Roman Church they
+teſt in the <hi>Ni<g ref="char:EOLhyphen"/>ceen</hi> Council; the <hi>Greek</hi> Church they reſt
+in the Council of <hi>Armi<g ref="char:EOLhyphen"/>num,</hi> both which, are contrary to the other: how
+ſhall any one be aſſured of the truth of all thoſe things with a divine
+certitude? And yet you make the world believe that all your wayes are ſo
+plain, that a fool cannot erre in them, and that the Scriptures are doubtfull
+guides, when no Religion in the World is perplexed with more doubts then
+yours.</p>
+            <p n="11">XI. If your Roman Church be this Infallible Church, and all
+her Doctrines Infallible, then I querie, if it be not ſinfull to doubt of the
+Truth of what ſhe teacheth?</p>
+            <p n="12">XII. If it be not a ſin to doubt of what your Church
+teacheth, then why do you blame us for que<g ref="char:EOLhyphen"/>ſtioning your Infallibility?</p>
+            <pb n="117" facs="tcp:109129:66"/>
+            <p n="13">XIII. But if it be a ſin to queſtion the Churches
+Doctrine, then how came the <hi>Baraeans</hi> to be commended for ſearching
+the Scriptures to <hi>ſee</hi> if what <hi>Paul</hi> preached was ſo or
+not; and whether might not their ſearch<g ref="char:EOLhyphen"/>ing the Scriptures have run them upon
+all thoſe inconveniencies of miſtaking by falſe Pointings, corru<g ref="char:EOLhyphen"/>pted
+Copies, falſe Interpretations, to the multiplying of Sects and He<g ref="char:EOLhyphen"/>reticks, if
+it might, why are they commended for ſearching?</p>
+            <p n="14">XIV. How can the reaſon of the Jews erring be, becauſe
+they did not know the Scriptures, if the knowledge of them would not have been
+a ſufficient guide to the Truth?</p>
+            <p n="15">XV. But if you ſhall ſay, we cannot know the Scriptures
+but by the true Church, then I querie, how ſhall I know the true Church,
+ſince there are as many different o<g ref="char:EOLhyphen"/>pinions about which is the true Church,
+as there is about which is <pb n="118" facs="tcp:109129:67"/>the true ſenſe of
+Scriptures?</p>
+            <p n="16">XVI. If you ſay the Scriptures decide the queſtion, and
+guide us to the true Church, then whether this be not to ſpeak Daggers, to
+prove the knowledge of the Scriptures by the Church, and the knowledge of the
+Church by the Scriptures?</p>
+            <p n="17">XVII. But if you ſay we know the Church by univerſal
+Tradition, then I querie, whether your Church can be ſo known, ſince a
+great part of the Chriſtian World, hath and doth diſown her; witneſs the
+Greek Church, together with moſt of the Churches in <hi>Europe?</hi>
+            </p>
+            <p n="18">XVIII. Whether then you can ſhew ſuch an univerſal
+Tradition for your Pope and Church, as we can do for the Scriptures, to which
+we do well to take heed, as to a light that ſhineth in a dark place till the
+day dawn, and the Day-ſtar ariſe in our hearts.</p>
+            <p n="19">XIX. Where was the Infallibi<g ref="char:EOLhyphen"/>lity <pb n="119" facs="tcp:109129:67"/>of
+the Roman Church in the time of <hi>Athanaſius,</hi> when he com<g ref="char:EOLhyphen"/>plained,
+<hi>totus mundus Arianizat,</hi> that the whole world <hi>Ariantized.</hi>
+            </p>
+            <p n="20">XX. I demand, Where will be the Viſibility and
+Infallibility of your Roman Church in the time of the great
+<hi>Antichriſt?</hi> which your <hi>Rhemiſh</hi> Annotators ſay
+<hi>ſhall come to<g ref="char:EOLhyphen"/>wards the end of the World, and aboliſh the publick
+Exerciſe of all Religion, wherein conſiſteth the worſhip of the true
+God, and ſhall pull down all kind of Re<g ref="char:EOLhyphen"/>ligious worſhip ſave that which
+ſhall be done to himſelf alone:</hi> See <hi>Rhem. An<g ref="char:EOLhyphen"/>not.</hi> on 2
+<hi>Theſſ.</hi> 2.4. How will your Church appear conſpicuouſly and
+univerſally to be a guide to Fools infallibly in thoſe days?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
